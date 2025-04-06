@@ -43,7 +43,7 @@
     3. Data Science及Data Engineering的架構規劃及研究
     4. LLM/RAG/ChatGPT/AI等架構規劃及研究
     5. 各應用系統的串接規劃及開發
-    6. 新技術的應用研發
+    6. 新技術及新應用的研發
 
 ### 副理
 * **公司：** 仁大資訊有限公司 (電腦系統整合服務業 100-500人)
@@ -141,6 +141,7 @@
     * [https://app.qabot.ai/](https://app.qabot.ai/) (account: demo@qabot.ai, password: demo123456)
 
 1.  **SaaS雲端服務網站主要技術：**
+    * Framework: Abp.io (Microservice and monolithic), AspNetZero, Dapr and Aspire
     * Tenant and Edition management for SaaS
     * Subscription management
     * PayPal(Payment) integration
@@ -173,6 +174,12 @@
     * LRU
     * SELU
     * BatchNormalization
+
+3. ** 資料管理 **
+    * 熟悉 SQL Server、MySQL、Oracle、Teradata、Redis 等資料庫系統。
+    * 熟悉 Data Warehouse、Data Lake、Data Mart、ETL、ELT 等資料管理技術。
+    * 熟悉 DataBricks、Azure Synapse、AWS Glue 等雲端資料處理技術。
+    * 研究及使用過多種資料庫技術：Data Grid、Delta Lake、Air Flow、Azure Purview等。
 
 **#jQuery #Python #ASP.NET #AJAX #C++ #MS SQL #MySQL #Oracle #C# #C**
 
