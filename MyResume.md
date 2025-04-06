@@ -41,7 +41,7 @@
   1. AWS 及 Azure 的雲端架構規劃與管理
   2. DevOps 及 MLOps 的建立與管理
   3. Data Science 及 Data Engineering 的架構規劃與研究
-  4. LLM / RAG / ChatGPT / AI 等應用架構設計與研究
+  4. LLM / RAG / ChatGPT / AI 等應用架構設計與研發
   5. 各應用系統的接合規劃與開發
   6. 各應用系統高可用性及監控規劃與開發
   7. 新技術及新應用的研發
