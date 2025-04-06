@@ -17,7 +17,7 @@
 - **通訊地址：** 台北市信義區虎林街***
 - **英文姓名：** Tim Chu
 - **聯絡電話：** (02)2345-2526
-- **聯絡方式：** E-Mail或手機
+- **聯絡方式：** E-Mail 或手機
 - **駕駛執照：** 普通重型機車駕照、普通小型車駕照
 - **交通工具：** 普通重型機車、普通小型車
 
@@ -34,16 +34,18 @@
 
 ### 副理
 - **公司：**  
-- **職位：** 資深資料科學家(架構師)  
+- **職位：** 資深資料科學家 (架構師)  
 - **地點：**  
 - **期間：** 2022/8 -  
 - **職責：**
-  1. AWS及Azure 的雲端架構規劃及管理
-  2. DevOps及MLOps 的建立及管理
-  3. Data Science 及 Data Engineering 的架構規劃及研究
-  4. LLM / RAG / ChatGPT / AI 等應用的架構設計及研究
-  5. 各應用系統的串接規劃及開發
-  6. 新技術及新應用的研發
+  1. AWS 及 Azure 的雲端架構規劃與管理
+  2. DevOps 及 MLOps 的建立與管理
+  3. Data Science 及 Data Engineering 的架構規劃與研究
+  4. LLM / RAG / ChatGPT / AI 等應用架構設計與研究
+  5. 各應用系統的接合規劃與開發
+  6. 各應用系統高可用性及監控規劃與開發
+  7. 新技術及新應用的研發
+  
 
 ### 副理
 - **公司：** 仁大資訊有限公司 (電腦系統整合服務業 100-500人)  
@@ -52,9 +54,10 @@
 - **期間：** 2018/4 - 2022/7 (4年4個月)  
 - **職責：**
   1. 開發遠傳電信最新世代門市專屬的自助服務牆  
-     - 採平行多工運作，為市面上使用體驗最好、反應最快的自助服務裝置  
+     - 採用平行多工運作，使用體驗極佳且反應迅速  
      - (參考：[遠傳自助服務牆](https://www.google.com/search?q=遠傳+自助服務牆&tbm=isch))
-  2. 規劃及管理林口長庚醫院人臉辨識門禁系統（採用全球頂尖辨識技術及閘道設備）
+  2. 規劃與管理林口長庚醫院人臉辨識門禁系統  
+     - 採用全球頂尖辨識技術及先進閘道設備
   3. 開發醫療相關系統  
      - 和信VIP系統：可量測多項身體數據  
      - 義大醫院血糖管理系統
@@ -65,9 +68,9 @@
 - **地點：** 台北市大同區  
 - **期間：** 2015/4 - 2018/4 (3年1個月)  
 - **職責：**
-  1. AI智能客服階段管理  
-     - 國泰世華、台北富邦及中國信託銀行智能客服系統專案 (專案經理)
-  2. 電信工程階段管理  
+  1. AI 智能客服專案管理  
+     - 國泰世華、台北富邦與中國信託銀行智能客服系統 (專案經理)
+  2. 電信工程專案管理  
      - 中華郵政客服中心汰換及中國石油客服中心維護/更新 (專案經理)
 
 ### 專案經理
@@ -77,14 +80,13 @@
 - **期間：** 2014/4 - 2015/4 (1年1個月)  
 - **職責：**
   1. 台灣電力公司客服中心系統 (CCS)  
-     - 擔任公共工程承攬商經理，統籌多家分包商於台北及台中機房作業  
-     - 以電信專業知識大幅縮短工程時間
-  2. 日本樂天電信Fusion 雲端客服系統  
+     - 擔任公共工程承攬商經理，統籌多家分包商進行維運作業  
+     - 具專業知識顯著縮短工程所需時間
+  2. 日本樂天電信 Fusion 雲端客服系統  
      - 建立 next generation Cloud Telephony Platform  
-     - 全程負責認證測試，所有測試均通過 (All Pass)  
-     - 日本電信高層來台會議
-  3. 負責國際研發團隊
-     - 與日本及印度工程及研發人員合作， 負責國際認證及測試
+     - 全程負責認證測試 (All Pass)，並協調日本電信高層會議
+  3. 國際研發團隊管理  
+     - 與日本及印度工程與研發人員合作，負責國際認證與測試
 
 ### 專案經理
 - **公司：** 驊宏資通股份有限公司 (電腦系統整合服務業 100~500人)  
@@ -92,8 +94,8 @@
 - **地點：** 台北市中正區  
 - **期間：** 2010/12 - 2014/4 (3年5個月)  
 - **職責：**
-  1. 統籌台灣銀行徵信、授信、擔保品、逾催、覆審、外匯及董事會查核系統
-  2. 配合金管會、中央銀行等單位，提前滿足 IFRS、個資保護及 CI/CD 要求
+  1. 統籌台灣銀行徵信、授信、擔保品、逾催、覆審、外匯與董事會查核系統
+  2. 配合金管會、中央銀行等要求，提前滿足 IFRS、個資保護及 CI/CD 品質需求
 
 ---
 
@@ -120,12 +122,12 @@
 ## 專長
 
 ### 專案管理
-1. 同時管理國內大型電信工程與國際重大電信專案
+1. 同時管理國內大型電信工程與國際重大專案
 2. 兼管民間銀行 AI 智能客服系統 (中國信託、國泰世華、台北富邦)
 3. 負責國內最大官股銀行核心系統管理
 
-- 具卓越研發及工程能力，迅速解決問題並提供最佳解決方案
-- 精通自動化管理（如 DevOps、JIRA 等），顯著提升品質與效率
+- 具備卓越研發與工程解決能力，能迅速處理問題並提供最佳方案
+- 精通自動化管理工具（如 DevOps、JIRA 等），顯著提升品質與效率
 
 **#工程管理 #專案管理 #專案管理軟體操作 #軟體專案管理 #軟體工程系統開發 #系統架構規劃 #系統架構規劃與維護 #系統維護操作 #軟體品質與保證 #工程施工監督管理**
 
@@ -133,20 +135,19 @@
 
 ## 技術能力
 
-- 產品覆蓋電信、金融、醫療、雲端及 AI 領域，屢獲獎項  
-- 詳見 AI 雲端服務專案：[Qabot](https://app.qabot.ai/) (account: demo@qabot.ai, password: demo123456)
+- 產品涵蓋電信、金融、醫療、雲端及 AI 領域，屢獲獎項  
+- 詳見 AI 雲端服務專案：[Qabot](https://app.qabot.ai/)  
+  (account: demo@qabot.ai, password: demo123456)
 
-1.  **Web Application Developemnt：**
-    - **Frameworks:** Abp.io (Microservice and Nonolithic), AspNetZero, Dapr, Aspire, Blazor
-    - **SaaS Features:** Tenant and Edition management, Subscription management, Billing, Payment, Multi-tenancy, Multi-Edition, Multi-Language
-    - **Authentication:** Identity Framework, User and role management, Multi Factor Authentication, JWT, OAuth2, OpenId Connect
-    - **Security:** Password complexity, CSRF protection, AntiXSS, AntiForgery, CORS, Data protection, Data encryption, Data masking, Anti-Ddos
-    - **Frontend:** Metronic, Bootstrap, Responsive design, jQuery, AJAX
-    - **Background Jobs:** Hangfire, RabbitMQ
-    - **Distributed System:** Distributed Cache, Distributed Lock, Distributed Event Bus
-    - **Cloud:** Azure, AWS, GCP, Docker, Azure Functions, Azure Logic Apps, Azure API Management, Azure App Service, Azure Blob Storage, Azure SQL Database, Azure Cosmos DB, Azure Data Lake Storage, AWS S3, AWS Lambda, AWS RDS, Azure Telemetry, AWS CloudWatch, Azure Monitor, Azure Application Insights
-    
-    
+1. **Web Application Development：**
+   - **Frameworks:** Abp.io (Microservice and Nonolithic), AspNetZero, Dapr, Aspire, Blazor
+   - **SaaS Features:** Tenant and Edition management, Subscription management, Billing, Payment, Multi-tenancy, Multi-Edition, Multi-Language
+   - **Authentication:** Identity Framework, User and role management, Multi Factor Authentication, JWT, OAuth2, OpenId Connect
+   - **Security:** Password complexity, CSRF protection, AntiXSS, AntiForgery, CORS, Data protection, Data encryption, Data masking, Anti-Ddos
+   - **Frontend:** Metronic, Bootstrap, Responsive design, jQuery, AJAX
+   - **Background Jobs:** Hangfire, RabbitMQ
+   - **Distributed System:** Distributed Cache, Distributed Lock, Distributed Event Bus
+   - **Cloud:** Azure, AWS, GCP, Docker, Azure Functions, Azure Logic Apps, Azure API Management, Azure App Service, Azure Blob Storage, Azure SQL Database, Azure Cosmos DB, Azure Data Lake Storage, AWS S3, AWS Lambda, AWS RDS, Azure Telemetry, AWS CloudWatch, Azure Monitor, Azure Application Insights
 
 2. **LLM/NLP/ML:**
    - **LLM:** ChatGPT、RAG、Prompt Engineering、Fine-tuning、Embedding、Vector DB、LangChain、OpenAI、Azure OpenAI Service、Llama
@@ -168,22 +169,22 @@
 
 ## 自傳
 
-- 大學時發現 Windows 核心技術（直接存取隔離記憶體及執行特權指令），運用設計電源管理軟體創業並獲獎
-- 退伍後主導大型金融專案（徵信、授信、擔保品、逾催、覆審、外匯、董事會查核），推動 CI/CD、缺陷追蹤與報表系統，顯著提效
-- 參與國內外電信設備開發與專案管理，克服工程爭議並通過嚴格認證 (All Pass)，獲國際認可
-- 精通 SaaS 與 AI 技術，為遠傳電信打造反應迅捷、故障率極低的自助服務牆及高容錯醫療系統
+- 大學期間發現 Windows 核心技術（直接存取隔離記憶體與執行特權指令），以此設計電源管理軟體創業並獲獎
+- 退伍後主導大型金融專案（徵信、授信、擔保品、逾催、覆審、外匯、董事會查核），推行 CI/CD、缺陷追蹤及報表系統，顯著提效
+- 參與國內外電信設備開發與專案管理，成功突破工程爭議並通過嚴格認證 (All Pass)
+- 精於 SaaS 與 AI 技術，為遠傳電信打造反應迅捷且故障率低的自助服務牆及高容錯醫療系統
 
 ### 主要開發專長：
 
-1. **AI及Python：** 能開發成熟 AlaaS/SaaS 系統，解決雲端租戶、模型與運算成本（採 Model Pruning、Early Stopping、LRU、SELU、BatchNormalization）
+1. **AI 及 Python：** 能開發成熟 AlaaS/SaaS 系統，針對雲端租戶、模型及運算成本採用 Model Pruning、Early Stopping、LRU、SELU 與 BatchNormalization
 2. **C, C++, C++/CLI：** 曾負責 Windows Device Driver 及核心程式開發
-3. **大型 Multi-Tenant SaaS：** 前後台皆能勝任
-4. **資料庫設計：** 精通 ORACLE、SQL SERVER 及 DB SCHEMA 設計，主導高效能與高一致性資料庫，並規劃備援系統
+3. **大型 Multi-Tenant SaaS：** 前後台皆具備開發能力
+4. **資料庫設計：** 精通 ORACLE、SQL SERVER 及 DB SCHEMA 設計，規劃高效能且一致性高的資料庫並設置備援
 5. **開發工具：** 精通 Microsoft Team Foundation、JIRA、Git 等自動化工具
-6. **電信網路：** 熟悉 TCP/IP、Websocket、Webhook、Signal-R、SIP、SDP、RTSP 等通訊協定
+6. **電信網路：** 熟悉 TCP/IP、Websocket、Webhook、Signal-R、SIP、SDP、RTSP 等協定
 
-- **獨特之處：** 建立自主 DevOps 流程與工作管理系統，藉由流程改進預防問題、簡化作業並大幅提效
-- 與客戶關係穩固，能在採購會議上提出專業規格與備援方案，帶來長期合作機會
+- **獨特優勢：** 建立自主 DevOps 流程與工作管理系統，透過流程改進預防問題、簡化作業並大幅提升效率
+- 與客戶建立穩固關係，能在採購會議上提出專業規格與備援方案，促成長期合作
 
 ---
 
