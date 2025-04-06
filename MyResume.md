@@ -41,7 +41,7 @@
     1. AWS及Azure的雲端架構規劃及管理
     2. DevOps及MLOps的建立及管理
     3. Data Science及Data Engineering的架構規劃及研究
-    4. LLM/RAG/ChatGPT/AI等架構規劃及研究
+    4. LLM/RAG/ChatGPT/AI等應用的架構設計及研究
     5. 各應用系統的串接規劃及開發
     6. 新技術及新應用的研發
 
@@ -140,40 +140,25 @@
 * 請參考在研究AI雲端服務所開發的專案：
     * [https://app.qabot.ai/](https://app.qabot.ai/) (account: demo@qabot.ai, password: demo123456)
 
-1.  **SaaS雲端服務網站主要技術：**
-    * Framework: Abp.io (Microservice and monolithic), AspNetZero, Dapr and Aspire
-    * Tenant and Edition management for SaaS
-    * Subscription management
-    * PayPal(Payment) integration
-    * Identity Framework
-    * User and role management
-    * User login, register, password-reset and email validation
-    * Password complexity
-    * CSRF protection
-    * HTTP/REST API
-    * Integrated with the backend API
-    * Localized UI, English, Chinese
-    * Metronic 8 based
-    * Bootstrap 5 based
-    * Responsive design
-    * Webhook (Line/Facebook Messenger)
-    * Real-time push notification system (SignalR)
-    * Background job system (Hangfire)
-    * WebChat (SignalR, WebSocket, Http Long Polling)
-    * Cookie consent & download users collected data (GDPR)
-    * Swagger integration
-    * Healthchecks
-    * Azure App Service
-    * CDN, Web Caching and Brotli Compression
-    * Anti-DDoS Protection
+1.  **Web Application：**
+    - **Frameworks:** Abp.io (Microservice and Nonolithic), AspNetZero, Dapr, Aspire, Blazor
+    - **SaaS Features:** Tenant and Edition management, Subscription management, Billing, Payment, Multi-tenancy, Multi-Edition, Multi-Language
+    - **Authentication:** Identity Framework, User and role management, Multi Factor Authentication, JWT, OAuth2, OpenId Connect
+    - **Security:** Password complexity, CSRF protection, AntiXSS, AntiForgery, CORS, Data protection, Data encryption, Data masking, Anti-Ddos
+    - **Frontend:** Metronic, Bootstrap, Responsive design, jQuery, AJAX
+    - **Background Jobs:** Hangfire, RabbitMQ
+    - **Distributed System:** Distributed Cache, Distributed Lock, Distributed Event Bus
+    - **Cloud:** Azure, AWS, GCP, Docker, Azure Functions, Azure Logic Apps, Azure API Management, Azure App Service, Azure Blob Storage, Azure SQL Database, Azure Cosmos DB, Azure Data Lake Storage, AWS S3, AWS Lambda, AWS RDS, Azure Telemetry, AWS CloudWatch, Azure Monitor, Azure Application Insights
+    
+    
 
-2.  **AI使用方法 (目的：降低AlaaS運作及訓練成本)：**
-    * NLP(Word Vector)
-    * Model Pruning
-    * Early Stopping
-    * LRU
-    * SELU
-    * BatchNormalization
+2. **LLM/NLP/ML:**
+    - **LLM (Large Language Model):** RAG (Retrieval-Augmented Generation), ChatGPT, Prompt Engineering, Fine-tuning, Embedding, Vector DB, LangChain, OpenAI, OpenAI Assistant, Azure OpenAI Service, Llama
+    - **NLP:** Bert, GPT, Word2Vec, NER, Sentiment Analysis
+    - **Optimization Techniques:** Model Pruning, Early Stopping
+    - **MLP (Multi-Layer Perceptron):** MLP, CNN, RNN, LSTM, GRU, Transformer, BERT, GPT
+    - **Activation Functions:** ELU, GELU, Swish, Mish, ReLU, Softplus, Softsign, Tanh, Sigmoid, Softmax
+    - **Normalization:** BatchNormalization, LayerNormalization
 
 3. ** 資料管理 **
     * 熟悉 SQL Server、MySQL、Oracle、Teradata、Redis 等資料庫系統。
