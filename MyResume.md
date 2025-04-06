@@ -140,7 +140,7 @@
 * 請參考在研究AI雲端服務所開發的專案：
     * [https://app.qabot.ai/](https://app.qabot.ai/) (account: demo@qabot.ai, password: demo123456)
 
-1.  **Web Application：**
+1.  **Web Application Developemnt：**
     - **Frameworks:** Abp.io (Microservice and Nonolithic), AspNetZero, Dapr, Aspire, Blazor
     - **SaaS Features:** Tenant and Edition management, Subscription management, Billing, Payment, Multi-tenancy, Multi-Edition, Multi-Language
     - **Authentication:** Identity Framework, User and role management, Multi Factor Authentication, JWT, OAuth2, OpenId Connect
@@ -153,7 +153,7 @@
     
 
 2. **LLM/NLP/ML:**
-    - **LLM (Large Language Model):** RAG (Retrieval-Augmented Generation), ChatGPT, Prompt Engineering, Fine-tuning, Embedding, Vector DB, LangChain, OpenAI, OpenAI Assistant, Azure OpenAI Service, Llama
+    - **LLM (Large Language Model):** ChatGPT, RAG, Prompt Engineering, Fine-tuning, Embedding, Vector DB, LangChain, OpenAI, OpenAI Assistant, Azure OpenAI Service, Llama
     - **NLP:** Bert, GPT, Word2Vec, NER, Sentiment Analysis
     - **Optimization Techniques:** Model Pruning, Early Stopping
     - **MLP (Multi-Layer Perceptron):** MLP, CNN, RNN, LSTM, GRU, Transformer, BERT, GPT
@@ -163,8 +163,8 @@
 3. ** 資料管理 **
     * 熟悉 SQL Server、MySQL、Oracle、Teradata、Redis 等資料庫系統。
     * 熟悉 Data Warehouse、Data Lake、Data Mart、ETL、ELT 等資料管理技術。
-    * 熟悉 DataBricks、Azure Synapse、AWS Glue 等雲端資料處理技術。
-    * 研究及使用過多種資料庫技術：Data Grid、Delta Lake、Air Flow、Azure Purview等。
+    * 熟悉 DataBricks、Azure Synapse、Azure Data Factory等雲端資料處理技術。
+    * 研究及使用過多種資料庫技術：Data Grid、Delta Lake、AirFlow、Azure Purview等。
 
 **#jQuery #Python #ASP.NET #AJAX #C++ #MS SQL #MySQL #Oracle #C# #C**
 
