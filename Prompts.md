@@ -1,10 +1,9 @@
-﻿## Prompts for Single Agent with Tool-Calling
+﻿## Prompts for Payment Processing and Customer Service
 
-I use Single Agent with Tool-Calling instead of Classifier-Based methods. Here is why:
+I use **OpenAI Assistant, File Search, and API Function** (Single Agent with Tool-Calling) instead of Classifier-Based methods. Here’s why:
 
-- **Purely OpenAI Solution:** The solution is entirely based on OpenAI's AI Services, providing state-of-the-art LLM, RAG, and API functionality.
-- **Enhanced Intelligence:** Unlike the Question Classifier + Knowledge + Chatbot approach, Single Agent better understands the complexity of payment processes and integrates business logic and knowledge queries seamlessly. It also allows for more complex interactions, such as changing my phone number or payment method without repeating the entire process. The LLM fully understands the entire process and can handle everything with simple commands like "I want to change my phone number to ???" or "I want to change the payment method to a credit card."
-
+- **Pure OpenAI Solution:** The project leverages OpenAI’s AI Services to provide cutting-edge ChatGPT, RAG, and API functionality. This ensures seamless integration of all components, enhancing overall performance and reliability.
+- **Enhanced Intelligence:** Unlike the Question Classifier + Knowledge + Chatbot approach, the Single Agent method comprehensively understands complex payment processes while integrating business logic and knowledge queries. It enables sophisticated interactions—such as changing a phone number or payment method without restarting the process; just using simple commands like "I want to change my phone number to ???" or "I want to change the payment method to a credit card.", the chatbot can handle these requests smoothly.
 
 ---
 

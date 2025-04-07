@@ -172,9 +172,9 @@
 - 退伍後主導大型金融專案（徵信、授信、擔保品、逾催、覆審、外匯、董事會查核），推行 CI/CD、缺陷追蹤及報表系統，顯著提效
 - 參與國內外電信設備開發與專案管理，成功突破工程爭議並通過嚴格認證(認證測試全過)
 - 精於 SaaS 與 AI 技術，為電信公司打造即時反應且高可靠性的自助服務牆及高容錯醫療系統
-- 曾經負責三大金控的智能客服，對 AI/NLP 的開發及應用上有非常的經歷及見解
+- 曾經負責三大金控的智能客服，對AI/智能客服的開發及應用上有非常的經歷及見解，從機器學習、自然語言處理到語意理解都有實務經驗。後續研究BERT、GPT、RAG、LLM等技術，現在主要在研發LLM的應用及架構設計。
 
-### 主要專長：
+### 專長：
 1. **LLM/NLP：** 精通 LLM、RAG、Prompt Engineering、Fine-tuning、LangChain、OpenAI Service、Llama
 2. **架構規劃：** 資料處理架構規劃、雲端架構規劃、AI 應用架構規劃、雲端服務架構規劃
 3. **AI 及 Python：** 能開發成熟 AlaaS/SaaS 系統，針對雲端租戶、模型及運算成本採用 Model Pruning、Early Stopping、LRU、SELU 與 BatchNormalization
@@ -188,12 +188,16 @@
 11. **機房管理及規劃:** 曾負責頂尖機房的規劃與維運，具備機房規劃、建置及維運經驗
 12. **DevOps/MlOps：** 可建立高品質 DevOps/MlOps 流程與工作管理系統，透過流程改進預防問題、簡化作業並大幅提升效率
 
----
 
 ## 附件
+### AIaaS README.md
+This documentation covers the AIaaS project developed using BERT and MLP for sentence and context understanding. The project provides a multi-tenant chatbot and Q&A management system with a modular architecture based on Domain-Driven Design (DDD) principles for maintainability and scalability. You can test the platform at [https://chatbot1.azurewebsites.net/](https://chatbot1.azurewebsites.net/), which is hosted on Azure.
 
-- 20200716_161532.jpg (林口長庚新綜合大樓人臉辨識閘道)
-- AI Devices.mp4 (具 AI 語意理解的自助服務裝置 - 繳費示範)
-- Awards.zip (產品獲獎記錄)
+### awards.md
+- Contains a categorized list of awards and recognitions for various software products I have developed.
+
+### Prompts.md
+- Provides prompts and instructions for the AI assistant, detailing how to handle complex payment processes, customer inquiries, and deliver accurate information.
+
 
 
