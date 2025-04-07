@@ -122,9 +122,9 @@
 ## 專長
 
 ### 專案管理
-1. 同時管理國內大型電信工程與國際重大專案
-2. 兼管民間銀行 AI 智能客服系統 (中國信託、國泰世華、台北富邦)
-3. 負責國內最大官股銀行核心系統管理
+1. 曾同時負責國內外大型電信工程 (台電、日本樂天)
+2. 曾同時負責民間銀行 AI 智能客服系統 (中國信託、國泰世華、台北富邦)
+3. 曾負責國內最大官股銀行核心系統管理
 
 - 具備卓越研發與工程解決能力，能迅速處理問題並提供最佳方案
 - 精通自動化管理工具（如 DevOps、JIRA 等），顯著提升品質與效率
@@ -136,8 +136,6 @@
 ## 技術能力
 
 - 產品涵蓋電信、金融、醫療、雲端及 AI 領域，屢獲獎項  
-- 詳見 AI 雲端服務專案：[Qabot](https://app.qabot.ai/)  
-  (account: demo@qabot.ai, password: demo123456)
 
 1. **Web Application Development：**
    - **Frameworks:** Abp.io (Microservice and Nonolithic), AspNetZero, Dapr, Aspire, Blazor
@@ -158,7 +156,7 @@
    - **Activation Functions:** ELU、GELU、Swish、Mish、ReLU、Softplus、Softsign、Tanh、Sigmoid、Softmax
    - **Normalization:** BatchNormalization、LayerNormalization
 
-3. **資料管理**
+3. **數據治理**
    - **Database:** SQL Server、MySQL、Oracle、Teradata、Redis
    - **Data Warehouse:** SQL DWH、Data Lake、Data Mart、ETL、ELT
    - **Tools:** DataBricks、Azure Synapse、Azure Data Factory
@@ -172,19 +170,20 @@
 
 - 大學期間發現 Windows 核心技術（可存取隔離記憶體與執行特權指令），以此設計電源管理軟體創業並獲獎
 - 退伍後主導大型金融專案（徵信、授信、擔保品、逾催、覆審、外匯、董事會查核），推行 CI/CD、缺陷追蹤及報表系統，顯著提效
-- 參與國內外電信設備開發與專案管理，成功突破工程爭議並通過嚴格認證 (All Pass)
+- 參與國內外電信設備開發與專案管理，成功突破工程爭議並通過嚴格認證(認證測試全過)
 - 同時負責三大金控的智能客服系統，有在大型金融的AI運用經驗。
 - 精於 SaaS 與 AI 技術，為電信公司打造即時反應且高可靠性的自助服務牆及高容錯醫療系統
 - 曾經同時負責三大金控的智能客服，對AI/NLP的開發及應用上有非常的經歷及見解，
 
 
 ### 主要專長：
-1. **AI 及 NLP：** 精通 LLM、RAG、Prompt Engineering、Fine-tuning、Embedding、Vector DB、LangChain、OpenAI、Azure OpenAI Service、Llama
+1. **LLM/NLP：** 精通 LLM、RAG、Prompt Engineering、Fine-tuning、LangChain、OpenAI Service、Llama
 2. 架構規劃： 資料處理架構規劃、雲端架構規劃、AI應用架構規劃、雲端服務架構規劃
 2. **AI 及 Python：** 能開發成熟 AlaaS/SaaS 系統，針對雲端租戶、模型及運算成本採用 Model Pruning、Early Stopping、LRU、SELU 與 BatchNormalization
 3. **C, C++, C++/CLI：** 曾負責 Windows Device Driver 及核心程式開發
 4. **大型 Multi-Tenant SaaS：** 前後台皆具備開發能力
 5. **資料庫設計：** 精通 ORACLE、SQL SERVER 及 DB SCHEMA 設計，規劃高效能且一致性高的資料庫並設置備援
+1. **數據治理:** 熟悉 SQL DWH、Data Lake、Data Mart、ETL、ELT，具備資料治理及數據倉儲的經驗
 6. **開發工具：** 精通 Microsoft Team Foundation、JIRA、Git 等自動化工具
 7. **電信網路：** 熟悉 TCP/IP、Websocket、Webhook、Signal-R、SIP、SDP、RTSP 等協定
 8. **機房管理及規劃:** 曾負責頂尖機房的規劃與維運，具備機房規劃、建置及維運經驗
