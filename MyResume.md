@@ -39,7 +39,7 @@
 - **期間：** 2022/8 -  
 - **職責：**
   1. AWS 及 Azure 的雲端架構規劃與管理
-  2. DevOps 及 MLOps 的建立與管理
+  2. Git, DevOps 及 MLOps 的建立與管理
   3. Data Science 及 Data Engineering 的架構規劃與研究
   4. LLM / RAG / ChatGPT / AI 等應用架構設計與研發
   5. 各應用系統的接合規劃與開發
@@ -151,6 +151,7 @@
 
 2. **LLM/NLP/ML:**
    - **LLM:** ChatGPT、RAG、Prompt Engineering、Fine-tuning、Embedding、Vector DB、LangChain、OpenAI、Azure OpenAI Service、Llama
+   - **LLM Application Architecture:** Question Classifier + RAG + LLM, Single Agent with Tool-Calling, Chain-of-Thought, Graph Chain-of-Thought
    - **NLP:** Bert, GPT, Word2Vec, NER, Sentiment Analysis
    - **Optimization Techniques:** Model Pruning、Early Stopping
    - **MLP:** MLP、CNN、RNN、LSTM、GRU、Transformer、BERT、GPT
@@ -158,11 +159,11 @@
    - **Normalization:** BatchNormalization、LayerNormalization
 
 3. **資料管理**
-   - 熟悉 SQL Server、MySQL、Oracle、Teradata、Redis 等
-   - 了解 Data Warehouse、Data Lake、Data Mart、ETL、ELT 技術
-   - 熟悉 DataBricks、Azure Synapse、Azure Data Factory 等雲端工具
-   - 曾使用 Data Grid、Delta Lake、AirFlow、Azure Purview 等技術
-
+   - **Database:** SQL Server、MySQL、Oracle、Teradata、Redis
+   - **Data Warehouse:** SQL DWH、Data Lake、Data Mart、ETL、ELT
+   - **Tools:** DataBricks、Azure Synapse、Azure Data Factory
+   - **Experiences:** Data Grid、Delta Lake、AirFlow、Azure Purview
+ 
 **#jQuery #Python #ASP.NET #AJAX #C++ #MS SQL #MySQL #Oracle #C# #C**
 
 ---
@@ -174,23 +175,23 @@
 - 參與國內外電信設備開發與專案管理，成功突破工程爭議並通過嚴格認證 (All Pass)
 - 同時負責三大金控的智能客服系統，有在大型金融的AI運用經驗。
 - 精於 SaaS 與 AI 技術，為電信公司打造即時反應且高可靠性的自助服務牆及高容錯醫療系統
-- 曾經同時負責三大金控的智能客服，對NLP的開發及應用上有非常的經歷及見解，
-### 主要開發專長：
+- 曾經同時負責三大金控的智能客服，對AI/NLP的開發及應用上有非常的經歷及見解，
 
-1. **AI 及 Python：** 能開發成熟 AlaaS/SaaS 系統，針對雲端租戶、模型及運算成本採用 Model Pruning、Early Stopping、LRU、SELU 與 BatchNormalization
-2. **C, C++, C++/CLI：** 曾負責 Windows Device Driver 及核心程式開發
-3. **大型 Multi-Tenant SaaS：** 前後台皆具備開發能力
-4. **資料庫設計：** 精通 ORACLE、SQL SERVER 及 DB SCHEMA 設計，規劃高效能且一致性高的資料庫並設置備援
-5. **開發工具：** 精通 Microsoft Team Foundation、JIRA、Git 等自動化工具
-6. **電信網路：** 熟悉 TCP/IP、Websocket、Webhook、Signal-R、SIP、SDP、RTSP 等協定
 
-- **獨特優勢：** 建立自主 DevOps 流程與工作管理系統，透過流程改進預防問題、簡化作業並大幅提升效率
-- 與客戶建立穩固關係，能提出最合適專業規格與備援方案，促成長期合作
+### 主要專長：
+1. **AI 及 NLP：** 精通 LLM、RAG、Prompt Engineering、Fine-tuning、Embedding、Vector DB、LangChain、OpenAI、Azure OpenAI Service、Llama
+2. 架構規劃： 資料處理架構規劃、雲端架構規劃、AI應用架構規劃、雲端服務架構規劃
+2. **AI 及 Python：** 能開發成熟 AlaaS/SaaS 系統，針對雲端租戶、模型及運算成本採用 Model Pruning、Early Stopping、LRU、SELU 與 BatchNormalization
+3. **C, C++, C++/CLI：** 曾負責 Windows Device Driver 及核心程式開發
+4. **大型 Multi-Tenant SaaS：** 前後台皆具備開發能力
+5. **資料庫設計：** 精通 ORACLE、SQL SERVER 及 DB SCHEMA 設計，規劃高效能且一致性高的資料庫並設置備援
+6. **開發工具：** 精通 Microsoft Team Foundation、JIRA、Git 等自動化工具
+7. **電信網路：** 熟悉 TCP/IP、Websocket、Webhook、Signal-R、SIP、SDP、RTSP 等協定
+8. **機房管理及規劃:** 曾負責頂尖機房的規劃與維運，具備機房規劃、建置及維運經驗
+9. **獨特優勢：** 建立自主 DevOps 流程與工作管理系統，透過流程改進預防問題、簡化作業並大幅提升效率
+
 
 ---
 
 ## 附件
 
-- 20200716_161532.jpg (林口長庚新綜合大樓人臉辨識閘道)
-- AI Devices.mp4 (具 AI 語意理解的自助服務裝置 - 繳費示範)
-- Awards.zip (產品獲獎記錄)
