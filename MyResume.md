@@ -7,19 +7,20 @@
 ---
 
 ## 個人資料
-
-- **性別：** 男
-- **年齡：** 50歲
-- **役畢：** (2000/9)
-- **就業狀態：** 在職中
-- **主要手機：** 0933-033-200
-- **E-mail：** tim.chu@hotmail.com
-- **通訊地址：** 台北市信義區虎林街***
-- **英文姓名：** Tim Chu
-- **聯絡電話：** (02)2345-2526
-- **聯絡方式：** E-Mail 或手機
-- **駕駛執照：** 普通重型機車駕照、普通小型車駕照
-- **交通工具：** 普通重型機車、普通小型車
+| 項目         | 詳細資料                        |
+|--------------|---------------------------------|
+| **性別：**   | 男                              |
+| **年齡：**   | 50歲                            |
+| **役畢：**   | (2000/9)                        |
+| **就業狀態：**| 在職中                         |
+| **主要手機：**| 0933-033-200                    |
+| **E-mail：** | tim.chu@hotmail.com             |
+| **通訊地址：**| 台北市信義區虎林街***          |
+| **英文姓名：**| Tim Chu                         |
+| **聯絡電話：**| (02)2345-2526                   |
+| **聯絡方式：**| E-Mail 或手機                  |
+| **駕駛執照：**| 普通重型機車駕照、普通小型車駕照|
+| **交通工具：**| 普通重型機車、普通小型車       |
 
 ---
 
@@ -41,11 +42,10 @@
   1. AWS 及 Azure 的雲端架構規劃與管理
   2. Git, DevOps 及 MLOps 的建立與管理
   3. Data Science 及 Data Engineering 的架構規劃與研究
-  4. LLM / RAG / ChatGPT / AI 等應用架構設計與研發
+  4. LLM / RAG / ChatGPT 等 AI 應用架構設計與研發
   5. 各應用系統的接合規劃與開發
   6. 各應用系統高可用性及監控規劃與開發
-  7. AI及資料處理相關新技術及新應用的研發
-  
+  7. AI 及資料處理相關新技術及新應用的研發
 
 ### 副理
 - **公司：** 仁大資訊有限公司 (電腦系統整合服務業 100-500人)  
@@ -59,7 +59,7 @@
   2. 規劃與管理林口長庚醫院人臉辨識門禁系統  
      - 採用全球尖端辨識技術及先進閘道設備
   3. 開發醫療相關系統  
-     - 和信VIP系統：可量測多項身體數據  
+     - 和信 VIP 系統：可量測多項身體數據  
      - 義大醫院血糖管理系統
 
 ### 高級專案經理
@@ -108,7 +108,7 @@
 - **希望地點：** 台北市
 - **希望職稱：** 依規定
 - **希望職類：** 軟體專案主管、架構師、軟體工程師
-- **希望產業：** AI相關業、軟體及網路相關業、電信及通訊相關業
+- **希望產業：** AI 相關業、軟體及網路相關業、電信及通訊相關業
 
 ---
 
@@ -138,7 +138,7 @@
 - 產品涵蓋電信、金融、醫療、雲端及 AI 領域，屢獲獎項  
 
 1. **Web Application Development：**
-   - **Frameworks:** Abp.io (Microservice and Nonolithic), AspNetZero, Dapr, Aspire, Blazor
+   - **Frameworks:** Abp.io (Microservice and Monolithic), AspNetZero, Dapr, Aspire, Blazor
    - **SaaS Features:** Tenant and Edition management, Subscription management, Billing, Payment, Multi-tenancy, Multi-Edition, Multi-Language
    - **Authentication:** Identity Framework, User and role management, Multi Factor Authentication, JWT, OAuth2, OpenId Connect
    - **Security:** Password complexity, CSRF protection, AntiXSS, AntiForgery, CORS, Data protection, Data encryption, Data masking, Anti-Ddos
@@ -161,7 +161,7 @@
    - **Data Warehouse:** SQL DWH、Data Lake、Data Mart、ETL、ELT
    - **Tools:** DataBricks、Azure Synapse、Azure Data Factory
    - **Experiences:** Data Grid、Delta Lake、AirFlow、Azure Purview
- 
+
 **#jQuery #Python #ASP.NET #AJAX #C++ #MS SQL #MySQL #Oracle #C# #C**
 
 ---
@@ -171,26 +171,29 @@
 - 大學期間發現 Windows 核心技術（可存取隔離記憶體與執行特權指令），以此設計電源管理軟體創業並獲獎
 - 退伍後主導大型金融專案（徵信、授信、擔保品、逾催、覆審、外匯、董事會查核），推行 CI/CD、缺陷追蹤及報表系統，顯著提效
 - 參與國內外電信設備開發與專案管理，成功突破工程爭議並通過嚴格認證(認證測試全過)
-- 同時負責三大金控的智能客服系統，有在大型金融的AI運用經驗。
 - 精於 SaaS 與 AI 技術，為電信公司打造即時反應且高可靠性的自助服務牆及高容錯醫療系統
-- 曾經同時負責三大金控的智能客服，對AI/NLP的開發及應用上有非常的經歷及見解，
-
+- 曾經負責三大金控的智能客服，對 AI/NLP 的開發及應用上有非常的經歷及見解
 
 ### 主要專長：
 1. **LLM/NLP：** 精通 LLM、RAG、Prompt Engineering、Fine-tuning、LangChain、OpenAI Service、Llama
-2. 架構規劃： 資料處理架構規劃、雲端架構規劃、AI應用架構規劃、雲端服務架構規劃
-2. **AI 及 Python：** 能開發成熟 AlaaS/SaaS 系統，針對雲端租戶、模型及運算成本採用 Model Pruning、Early Stopping、LRU、SELU 與 BatchNormalization
-3. **C, C++, C++/CLI：** 曾負責 Windows Device Driver 及核心程式開發
-4. **大型 Multi-Tenant SaaS：** 前後台皆具備開發能力
-5. **資料庫設計：** 精通 ORACLE、SQL SERVER 及 DB SCHEMA 設計，規劃高效能且一致性高的資料庫並設置備援
-1. **數據治理:** 熟悉 SQL DWH、Data Lake、Data Mart、ETL、ELT，具備資料治理及數據倉儲的經驗
-6. **開發工具：** 精通 Microsoft Team Foundation、JIRA、Git 等自動化工具
-7. **電信網路：** 熟悉 TCP/IP、Websocket、Webhook、Signal-R、SIP、SDP、RTSP 等協定
-8. **機房管理及規劃:** 曾負責頂尖機房的規劃與維運，具備機房規劃、建置及維運經驗
-9. **獨特優勢：** 建立自主 DevOps 流程與工作管理系統，透過流程改進預防問題、簡化作業並大幅提升效率
-
+2. **架構規劃：** 資料處理架構規劃、雲端架構規劃、AI 應用架構規劃、雲端服務架構規劃
+3. **AI 及 Python：** 能開發成熟 AlaaS/SaaS 系統，針對雲端租戶、模型及運算成本採用 Model Pruning、Early Stopping、LRU、SELU 與 BatchNormalization
+4. **C, C++, C++/CLI：** 曾負責 Windows Device Driver 及核心程式開發
+5. **C#, .NET Core：** 精通 C#、ASP.NET Core、Blazor、JavaScript、jQuery、AJAX、Bootstrap、Metronic
+6. **大型 Multi-Tenant SaaS：** 前後台皆具備開發能力
+7. **資料庫設計：** 精通 ORACLE、SQL SERVER 及 DB SCHEMA 設計，規劃高效能且一致性高的資料庫並設置備援
+8. **數據治理:** 熟悉 SQL DWH、Data Lake、Data Mart、ETL、ELT，具備資料治理及數據倉儲的經驗
+9. **開發工具：** 精通 Microsoft Team Foundation、JIRA、Git 等自動化工具
+10. **電信網路：** 熟悉 TCP/IP、Websocket、Webhook、Signal-R、SIP、SDP、RTSP 等協定
+11. **機房管理及規劃:** 曾負責頂尖機房的規劃與維運，具備機房規劃、建置及維運經驗
+12. **DevOps/MlOps：** 可建立高品質 DevOps/MlOps 流程與工作管理系統，透過流程改進預防問題、簡化作業並大幅提升效率
 
 ---
 
 ## 附件
+
+- 20200716_161532.jpg (林口長庚新綜合大樓人臉辨識閘道)
+- AI Devices.mp4 (具 AI 語意理解的自助服務裝置 - 繳費示範)
+- Awards.zip (產品獲獎記錄)
+
 
