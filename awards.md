@@ -1,7 +1,74 @@
+<style>
+img {
+  max-width: 100px;
+  max-height: 100px;
+}
+</style>
+
+
 # Awards Achieved by My Software Over the Years
 
 I have developed numerous software products that have received prestigious awards and accolades, reflecting their quality, innovation, and impact on the industry. These award-winning applications and services are celebrated for their exceptional performance, user satisfaction, and adherence to industry-leading standards. The awards listed below highlight achievements across categories such as Best Software, Editor's Choice, and Industry Certification. The list is not yet complete, but I will continue to update it.
 
 ---
 
-<img src="https://myawards.static.domains/awards/0.png" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/1.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/2.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/3.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/4.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/5.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/5star.gif" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/5star2.gif" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/5stars_award160x80.gif" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/5starsaward.gif" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/5starsaward2.gif" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/5starsaward3.gif" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/6.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/7.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/8.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/9.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/10.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/11.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/12.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/13.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/14.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/15.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/16.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/17.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/18.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/19.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/20.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/21.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/22.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/23.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/24.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/25.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/26.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/27.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/28.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/29.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/30.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/31.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/32.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/33.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/34.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/35.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/36.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/37.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/38.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/39.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/40.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/41.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/42.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/43.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/44.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/45.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/46.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/47.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/48.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/49.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/50.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/51.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/52.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/53.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/54.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/55.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/56.JPG" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/award_5.gif" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/award_200.jpg" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/award_b_5.jpg" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/big_5dudes.gif" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/award_clean.png" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/clean_certified.gif" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/dr-5.png" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/fb_1_rate5.gif" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/fsstar_5.jpg" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/5stars_rating.gif" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/filetransit_5of5.gif" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/dn_award.gif" style="max-width: 100px; max-height: 100px;" /> <img src="https://myawards.static.domains/awards/getabest_choice.gif" style="max-width: 100px; max-height: 100px;" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/1.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/10.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/11.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/12.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/13.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/14.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/15.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/16.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/17.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/19.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/2.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/20.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/21.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/22.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/24.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/25.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/26.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/27.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/28.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/29.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/3.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/30.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/31.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/32.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/33.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/34.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/35.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/36.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/37.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/38.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/4.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/40.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/41.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/42.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/43.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/44.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/47.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/48.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/49.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/5.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/50.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/51.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/52.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/53.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/54.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/55.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/56.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/6.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/7.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/8.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/9.JPG" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/award_200.jpg" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/dn_award.gif" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/fsstar_5.jpg" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/getabest_choice.gif" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/rate_r_5.gif" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/soft82_award_130x130.gif" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/softtester5stars.gif" />
+<img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/awards/toprated.gif" />
+
