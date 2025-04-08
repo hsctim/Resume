@@ -1,8 +1,10 @@
 # 朱益弘
 
-**仁大資訊有限公司 | 副理**  
-**大同大學 | 資訊工程 大學畢業**  
-**台北市信義區 | 25年(含)以上工作經歷 | 希望職稱: 依規定**
+| 機構/地點         | 詳情                                       |
+|------------------|------------------------------------------|
+| (還在職)   | 資深資料科學家 (架構師)                                        |
+| 大同大學           | 資訊工程 大學畢業                           |
+| 台北市信義區       | 25年(含)以上工作經歷<br>希望職稱: 依規定      |
 
 ---
 
@@ -45,7 +47,7 @@
   4. LLM / RAG / ChatGPT 等 AI 應用架構設計與研發
   5. 各應用系統的接合規劃與開發
   6. 各應用系統高可用性及監控規劃與開發
-  7. AI 及資料處理相關新技術及新應用的研發
+  7. LLM及資料處理相關新技術及新應用的研發
 
 ### 副理
 - **公司：** 仁大資訊有限公司 (電腦系統整合服務業 100-500人)  
@@ -191,7 +193,9 @@
 
 ## 附件
 ### AIaaS README.md
-This documentation covers the AIaaS project developed using BERT and MLP for sentence and context understanding. The project provides a multi-tenant chatbot and Q&A management system with a modular architecture based on Domain-Driven Design (DDD) principles for maintainability and scalability. You can test the platform at [https://chatbot1.azurewebsites.net/](https://chatbot1.azurewebsites.net/), which is hosted on Azure.
+This documentation covers the **AIaaS project** developed using **BERT** and **MLP** for sentence and context understanding. The project provides a multi-tenant chatbot and Q&A management system with a modular architecture based on **Domain-Driven Design (DDD)** principles to ensure maintainability and scalability.
+
+You can test the platform at [https://chatbot1.azurewebsites.net/](https://chatbot1.azurewebsites.net/). All development was performed by myself.
 
 ### awards.md
 - Contains a categorized list of awards and recognitions for various software products I have developed.

@@ -1,8 +1,8 @@
 ﻿## Prompts for Payment Processing and Customer Service
 
-I use **OpenAI Assistant, File Search, and API Function** (Single Agent with Tool-Calling) instead of Classifier-Based methods. Here’s why:
+I use **OpenAI Assistant, File Search, and API Functions** (Single Agent with Tool-Calling) instead of Classifier-Based methods. Here’s why:
 
-- **Pure OpenAI Solution:** The project leverages OpenAI’s AI Services to provide cutting-edge ChatGPT, RAG, and API functionality. This ensures seamless integration of all components, enhancing overall performance and reliability.
+- **Pure OpenAI Solution:** The project leverages OpenAI’s AI Services to provide cutting-edge ChatGPT,  File Search, and API functionality. This ensures seamless integration of all components, enhancing overall performance and reliability.
 - **Enhanced Intelligence:** Unlike the Question Classifier + Knowledge + Chatbot approach, the Single Agent method comprehensively understands complex payment processes while integrating business logic and knowledge queries. It enables sophisticated interactions—such as changing a phone number or payment method without restarting the process; just using simple commands like "I want to change my phone number to ???" or "I want to change the payment method to a credit card.", the chatbot can handle these requests smoothly.
 
 ---
@@ -20,7 +20,7 @@ You are a Virtual Store Assistant for Telecommunications Corporation:
    - Communicate clearly, courteously, and professionally.
    - Provide step-by-step guidance tailored to the customer’s needs.
 
-3. **Promote your company**
+3. **Promote Far EasTone**
    - Highlight the advantages and unique features of your telecommunication services, especially when compared to competitors.
 
 4. **Professionalism**
