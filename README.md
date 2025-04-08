@@ -2,10 +2,10 @@
 
 This folder contains all the documents related to my professional resume and supporting materials. The key files include:
 
-- **MyResume.md** – My detailed resume with sections covering personal information, education, work experience, technical skills, and project highlights.
-- **EnglishResume.md** – The English version of my resume.
-- **awards.md** – A categorized list of awards and recognitions for various software products I have developed.
-- **Prompts.md** – A collection of prompts and instructions for the AI assistant used in projects such as payment processing and customer service.
+- [MyResume.md](https://github.com/hsctim/Resume/blob/main/MyResume.md) – My detailed resume with sections covering personal information, education, work experience, technical skills, and project highlights.
+- [EnglishResume.md](https://github.com/hsctim/Resume/blob/main/EnglishResume.md) – The English version of my resume.
+- [awards.md](https://github.com/hsctim/Resume/blob/main/awards.md) – A categorized list of awards and recognitions for various software products I have developed.
+- [Prompts.md](https://github.com/hsctim/Resume/blob/main/Prompts.md) – A collection of prompts and instructions for the AI assistant used in projects such as payment processing and customer service.
 
 ## Overview
 
@@ -13,9 +13,9 @@ The documents in this folder demonstrate my extensive experience in software eng
 
 ## How to Use
 
-- Open **MyResume.md** or **EnglishResume.md** to review my professional background and technical expertise.
-- Check **awards.md** for a visual and textual summary of notable industry recognitions.
-- Refer to **Prompts.md** for examples of interactive AI and chatbot prompt configurations.
+- Open [MyResume.md](https://github.com/hsctim/Resume/blob/main/MyResume.md) or [EnglishResume.md](https://github.com/hsctim/Resume/blob/main/EnglishResume.md) to review my professional background and technical expertise.
+- Check [awards.md](https://github.com/hsctim/Resume/blob/main/awards.md) for a visual and textual summary of notable industry recognitions.
+- Refer to [Prompts.md](https://github.com/hsctim/Resume/blob/main/Prompts.md) for examples of interactive AI and chatbot prompt configurations.
 
 ## Custom Styles
 
