@@ -1,3 +1,11 @@
+<style>
+img {
+  max-width: 100px;
+  max-height: 100px;
+}
+</style>
+
+
 # Awards Achieved by My Software Over the Years
 
 I have developed numerous software products that have received prestigious awards and accolades, reflecting their quality, innovation, and impact on the industry. These award-winning applications and services are celebrated for their exceptional performance, user satisfaction, and adherence to industry-leading standards. The awards listed below highlight achievements across categories such as Best Software, Editor's Choice, and Industry Certification. The list is not yet complete, but I will continue to update it.
