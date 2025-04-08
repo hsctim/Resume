@@ -19,10 +19,4 @@ The documents in this folder demonstrate my extensive experience in software eng
 
 ## Custom Styles
 
-Some documentation files (e.g., awards.md) include custom CSS to ensure consistent presentation (e.g., setting the maximum width and height of images).
-
-Feel free to review and contact me for further details or opportunities based on the contents of these files.
-
----
-
-*This folder is maintained as a comprehensive portfolio of my professional journey.*
+Some documentation files (e.g., awards.md) include custom CSS to enforce consistent presentation—such as setting a maximum width and height for images. Note that these custom styles are not applied when rendered on GitHub; they are intended for local viewing or platforms that support custom CSS.
