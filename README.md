@@ -4,19 +4,8 @@ This folder contains all the documents related to my professional resume and sup
 
 - [MyResume.md](https://github.com/hsctim/Resume/blob/main/MyResume.md) – My detailed resume with sections covering personal information, education, work experience, technical skills, and project highlights.
 - [EnglishResume.md](https://github.com/hsctim/Resume/blob/main/EnglishResume.md) – The English version of my resume.
+- [Alaas.md](https://github.com/hsctim/Resume/blob/main/Alaas.md) – Overview of the Alaas project, detailing its key features as a multi-tenant chatbot and Q&A management system independently developed by me. I use BERT and MLP for advanced sentence and context understanding.
 - [awards.md](https://github.com/hsctim/Resume/blob/main/awards.md) – A categorized list of awards and recognitions for various software products I have developed.
 - [Prompts.md](https://github.com/hsctim/Resume/blob/main/Prompts.md) – A collection of prompts and instructions for the AI assistant used in projects such as payment processing and customer service.
 
-## Overview
 
-The documents in this folder demonstrate my extensive experience in software engineering, project management, and technical leadership, spanning domains in telecom, finance, healthcare, cloud, and AI. The materials highlight achievements, technical skills, and innovative projects from over 25 years of work experience.
-
-## How to Use
-
-- Open [MyResume.md](https://github.com/hsctim/Resume/blob/main/MyResume.md) or [EnglishResume.md](https://github.com/hsctim/Resume/blob/main/EnglishResume.md) to review my professional background and technical expertise.
-- Check [awards.md](https://github.com/hsctim/Resume/blob/main/awards.md) for a visual and textual summary of notable industry recognitions.
-- Refer to [Prompts.md](https://github.com/hsctim/Resume/blob/main/Prompts.md) for examples of interactive AI and chatbot prompt configurations.
-
-## Custom Styles
-
-Some documentation files (e.g., awards.md) include custom CSS to enforce consistent presentation—such as setting a maximum width and height for images. Note that these custom styles are not applied when rendered on GitHub; they are intended for local viewing or platforms that support custom CSS.
