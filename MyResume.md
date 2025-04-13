@@ -192,16 +192,17 @@
 
 
 ## 附件
-### AIaaS README.md
-This documentation covers the **AIaaS project** developed using **BERT** and **MLP** for sentence and context understanding. The project provides a multi-tenant chatbot and Q&A management system with a modular architecture based on **Domain-Driven Design (DDD)** principles to ensure maintainability and scalability.
 
-You can test the platform at [https://chatbot1.azurewebsites.net/](https://chatbot1.azurewebsites.net/). All development was performed by myself.
+我將所有附件放至 GitHub 上，並提供連結以便參考。這些附件包括我的履歷、獲獎紀錄、AI助手的提示語和指令等。以下是主要文件的連結：
 
-### awards.md
-- Contains a categorized list of awards and recognitions for various software products I have developed.
+- Readme.md (https://github.com/hsctim/Resume/blob/main/Readme.md) – 這是Github上的README文件，包含了所有附件的連結和簡介。
 
-### Prompts.md
-- Provides prompts and instructions for the AI assistant, detailing how to handle complex payment processes, customer inquiries, and deliver accurate information.
+- MyResume.md (https://github.com/hsctim/Resume/blob/main/MyResume.md) - 我的中文履歷，包含個人資料、學歷、工作經驗、技術能力和專案等部分。
 
+- AIaas.md(https://github.com/hsctim/Resume/blob/main/AIaas.md) – 我的個人作品Alaas的概述，詳細介紹它作為一個多租戶聊天機器人和問答管理系統的主要特點。該系統由我獨立開發，使用BERT和MLP進行高級句子和上下文理解。您可以至網站 (https://chatbot1.azurewebsites.net/)進行任意測試及評估。
 
+- EnglishResume.md(https://github.com/hsctim/Resume/blob/main/EnglishResume.md) -- 我的英文履歷，包含個人資料、學歷、工作經驗、技術能力和專案等部分。
 
+- awards.md(https://github.com/hsctim/Resume/blob/main/awards.md) - 我開發的各種軟體產品的獲獎和認可。這些獲獎的應用程式和服務因其卓越的性能、用戶滿意度和遵循行業標準而受到讚譽。
+
+- Prompts.md(https://github.com/hsctim/Resume/blob/main/Prompts.md) - 用於OpenAI Assistants的提示語和指令集合，說明我為什麼要用OpenAI Assistants來完成付款處理流程和客戶服務等任務。
