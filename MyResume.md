@@ -231,7 +231,7 @@
 
 ## 附件
 
-我將所有附件放至 GitHub 上，並提供連結以便參考。這些附件包括我的履歷、獲獎紀錄、AI助手的提示語和指令等。以下是主要文件的連結：
+我將所有附件放至 GitHub 上，並提供連結以便參考。這些附件包括我的履歷、獲獎紀錄、OpenAI Assistants的提示語和指令等。以下是主要文件的連結：
 
 - Readme.md (https://github.com/hsctim/Resume/blob/main/Readme.md) – 這是Github上的README文件，包含了所有附件的連結和簡介。
 

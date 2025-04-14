@@ -29,9 +29,9 @@
 ## Work Experience (Over 25 Years)
 
 ### Senior Data Scientist (Architect)
-- **Company:** [Not Specified]  
+- **Company:** 
 - **Position:** Senior Data Scientist (Architect)  
-- **Location:** [Not Specified]  
+- **Location:** 
 - **Duration:** Aug 2022 – Present  
 - **Responsibilities:**
   1. Plan and manage cloud architectures on AWS and Azure.
@@ -54,8 +54,8 @@
   2. Planned and managed the facial recognition access control system for Linkou Chang Gung Hospital.
      - Utilized cutting-edge recognition technology and advanced gateway equipment.
   3. Developed healthcare-related systems:
-     - Helinx VIP System: Capable of measuring multiple physiological parameters.
-     - E-Da Hospital Blood Sugar Management System.
+     - Kfsyscc VIP System: Capable of measuring multiple physiological parameters.
+     - Edah Hospital Blood Sugar Management System.
 
 ### Senior Project Manager
 - **Company:** Chainsea Information Integration Co., Ltd. (Telecom Industry, over 500 employees)  
@@ -91,6 +91,32 @@
 - **Responsibilities:**
   1. Coordinated systems for credit investigation, credit approval, collateral management, delinquency, review, foreign exchange, and board audits for Taiwan Bank.
   2. Collaborated with the Financial Supervisory Commission and Central Bank to proactively meet IFRS, personal data protection, and CI/CD quality standards.
+
+### SOHO  
+**Company:** Self-Employed  
+**Location:** Xinyi District, Taipei  
+**Duration:** 2007 – 2010 (3 years)  
+**Responsibilities:**
+1. Collaborated with various software companies, providing technical support and co-developing security management and power management software.
+2. Researched software engineering and process improvement methods to enhance software quality and project management efficiency; explored frameworks including CMMI, Extreme Programming, Agile/Scrum, and DevOps.
+
+### Senior Engineer  
+**Company:** Sunvison Technology Co., Ltd. (≈100 employees)  
+**Location:** Xinyi District, Taipei  
+**Duration:** 2003 – 2007 (4 years)  
+**Responsibilities:**
+1. Developed fingerprint recognition systems and integrated them into the Windows login system via GINA and Credential Provider.
+2. Developed vein recognition systems and integrated them with Windows login systems and industrial security equipment.
+3. Developed a cloud-based digital signage (Digital Signage) system.
+
+### Founder  
+**Company:** Yihong Technology Co., Ltd. (5 employees)  
+**Location:** Xinyi District, Taipei  
+**Duration:** 1998 – 2003 (5 years)  
+**Responsibilities:**
+1. Invented Windows kernel technology during college by creating a Call Gate in isolated memory to execute privileged instructions. This led to the development of an award-winning power management software adopted by a major US laptop manufacturer and sold through international software and online distributors.
+2. Maintained product leadership and garnered extensive international media coverage; the technology was phased out with the advent of Windows XP, leading to the business's closure.
+
 
 ---
 
@@ -183,14 +209,16 @@
 ---
 
 ## Attachments
+All supplementary documents are available on GitHub for your reference. These include my resumes (both Chinese and English), award records, and a collection of OpenAI assistant prompts and instructions. The main files are:
 
-### AIaaS README.md
-This documentation covers the AIaaS project developed using BERT and MLP for sentence and context understanding. The project provides a multi-tenant chatbot and Q&A management system with a modular architecture based on Domain-Driven Design (DDD) principles to ensure maintainability and scalability.
+- **Readme.md** (https://github.com/hsctim/Resume/blob/main/Readme.md) – A README file containing links and an overview of all attachments.
 
-You can test the platform at [https://chatbot1.azurewebsites.net/](https://chatbot1.azurewebsites.net/). All development was performed solely by me.
+- **MyResume.md** (https://github.com/hsctim/Resume/blob/main/MyResume.md) – My Chinese resume, detailing personal information, education, work experience, technical skills, and projects.
 
-### awards.md
-- Contains a categorized list of awards and recognitions for various software products I have developed.
+- **AIaas.md** (https://github.com/hsctim/Resume/blob/main/AIaas.md) – An overview of my project “Alaas,” a multi-tenant chatbot and Q&A management system developed independently using BERT and MLP for advanced context understanding. Visit [the website](https://chatbot1.azurewebsites.net/) for live testing and evaluation.
 
-### Prompts.md
-- Provides prompts and instructions for the AI assistant, detailing how to handle complex payment processes, customer inquiries, and deliver accurate information.
+- **EnglishResume.md** (https://github.com/hsctim/Resume/blob/main/EnglishResume.md) – This English resume, which details my background, work experience, technical skills, and projects.
+
+- **awards.md** (https://github.com/hsctim/Resume/blob/main/awards.md) – A record of awards and recognitions for various software products I developed, recognized for performance, user satisfaction, and adherence to industry standards.
+
+- **Prompts.md** (https://github.com/hsctim/Resume/blob/main/Prompts.md) – A collection of prompts and instructions for OpenAI Assistants, explaining my use of these tools for tasks such as payment processing workflows and customer service.
