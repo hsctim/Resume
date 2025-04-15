@@ -233,14 +233,18 @@
 
 我將所有附件放至 GitHub 上，並提供連結以便參考。這些附件包括我的履歷、獲獎紀錄、OpenAI Assistants的提示語和指令等。以下是主要文件的連結：
 
-- Readme.md (https://github.com/hsctim/Resume/blob/main/Readme.md) – 這是Github上的README文件，包含了所有附件的連結和簡介。
+- **Readme.md** (https://github.com/hsctim/Resume/blob/main/Readme.md) – 這是Github上的README文件，包含了所有附件的連結和簡介。
 
-- MyResume.md (https://github.com/hsctim/Resume/blob/main/MyResume.md) - 我的中文履歷，包含個人資料、學歷、工作經驗、技術能力和專案等部分。
+- **MyResume.md** (https://github.com/hsctim/Resume/blob/main/MyResume.md) - 我的中文履歷，包含個人資料、學歷、工作經驗、技術能力和專案等部分。
 
-- AIaas.md(https://github.com/hsctim/Resume/blob/main/AIaas.md) – 我的個人作品Alaas的概述，詳細介紹它作為一個多租戶聊天機器人和問答管理系統的主要特點。該系統由我獨立開發，使用BERT和MLP進行高級句子和上下文理解。您可以至[chatbot1網站](https://chatbot1.azurewebsites.net)進行任意測試及評估。
+- **EnglishResume.md** (https://github.com/hsctim/Resume/blob/main/EnglishResume.md) -- 我的英文履歷，包含個人資料、學歷、工作經驗、技術能力和專案等部分。
 
-- EnglishResume.md(https://github.com/hsctim/Resume/blob/main/EnglishResume.md) -- 我的英文履歷，包含個人資料、學歷、工作經驗、技術能力和專案等部分。
+- **awards.md** (https://github.com/hsctim/Resume/blob/main/awards.md) - 我開發的各種軟體產品的獲獎和認可。這些獲獎的應用程式和服務因其卓越的性能、用戶滿意度和遵循行業標準而受到讚譽。
 
-- awards.md(https://github.com/hsctim/Resume/blob/main/awards.md) - 我開發的各種軟體產品的獲獎和認可。這些獲獎的應用程式和服務因其卓越的性能、用戶滿意度和遵循行業標準而受到讚譽。
+- **Prompts.md** (https://github.com/hsctim/Resume/blob/main/Prompts.md) - 用於OpenAI Assistants的提示語和指令集合，說明我為什麼要用OpenAI Assistants來完成付款處理流程和客戶服務等任務。
 
-- Prompts.md(https://github.com/hsctim/Resume/blob/main/Prompts.md) - 用於OpenAI Assistants的提示語和指令集合，說明我為什麼要用OpenAI Assistants來完成付款處理流程和客戶服務等任務。
+- **AIaas.md** (https://github.com/hsctim/Resume/blob/main/AIaas.md) – 我的個人作品Alaas的概述，詳細介紹它作為一個多租戶聊天機器人和問答管理系統的主要特點。該系統由我獨立開發，使用BERT和MLP進行高級句子和上下文理解。您可以至[chatbot1網站](https://chatbot1.azurewebsites.net)進行任意測試及評估。
+
+- **ChatbotBert** (https://github.com/hsctim/ChatbotBert) - A repository showcasing the ChatbotBert project, independently developed as the NLP backend for the Alaas platform. It demonstrates advanced sentence and context understanding using the BERT model and MLP. The source code is open for community use and learning, providing a practical example of my expertise in AI, NLP, and MLP technologies.
+
+- **ChatbotBert** (https://github.com/hsctim/ChatbotBert) - 這是 ChatbotBert 專案的儲存庫，該專案由我獨立開發，作為 Alaas 平台的 NLP 後端。它展示了使用 BERT 模型和 MLP 的高級句子和上下文理解能力。原始碼開放供社群使用與學習，提供了我在 AI、NLP 和 MLP 技術方面專業知識的實際範例。

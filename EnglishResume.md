@@ -222,3 +222,5 @@ All supplementary documents are available on GitHub for your reference. These in
 - **awards.md** (https://github.com/hsctim/Resume/blob/main/awards.md) – A record of awards and recognitions for various software products I developed, recognized for performance, user satisfaction, and adherence to industry standards.
 
 - **Prompts.md** (https://github.com/hsctim/Resume/blob/main/Prompts.md) – A collection of prompts and instructions for OpenAI Assistants, explaining my use of these tools for tasks such as payment processing workflows and customer service.
+
+- **ChatbotBert** (https://github.com/hsctim/ChatbotBert) - A repository showcasing the ChatbotBert project, independently developed as the NLP backend for the Alaas platform. It demonstrates advanced sentence and context understanding using the BERT model and MLP. The source code is open for community use and learning, providing a practical example of my expertise in AI, NLP, and MLP technologies.
