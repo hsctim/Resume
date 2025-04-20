@@ -1,6 +1,13 @@
 # Resume and Supporting Materials 
 
-This folder contains all the documents related to my professional resume and supporting materials. The key files include:
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 3; padding-right: 20px; font-size: 1.2em;">
+    This folder contains all the documents related to my professional resume and supporting materials. The key files include:
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://raw.githubusercontent.com/hsctim/Resume/refs/heads/main/profile.png" alt="Profile Image" style="max-width: 100px; border-radius: 50%;">
+  </div>
+</div>
 
 - [MyResume.md](https://github.com/hsctim/Resume/blob/main/MyResume.md) – A Chinese resume covering personal information, education, work experience, technical skills, and project highlights.
 
