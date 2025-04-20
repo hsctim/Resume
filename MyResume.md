@@ -241,7 +241,7 @@
 
 - **awards.md** (https://github.com/hsctim/Resume/blob/main/awards.md) - 我開發的各種軟體產品的獲獎和認可。這些獲獎的應用程式和服務因其卓越的性能、用戶滿意度和遵循行業標準而受到讚譽。
 
-- **Prompts.md** (https://github.com/hsctim/Resume/blob/main/Prompts.md) - 用於OpenAI Assistants的提示語和指令集合，說明我為什麼要用OpenAI Assistants來完成付款處理流程和客戶服務等任務。
+- **Prompts.md** (https://github.com/hsctim/Resume/blob/main/Prompts.md) - OpenAI Assistant的提示語，用於付款處理和客戶服務等專案。該提示語旨在指導助理提供準確的信息、保持專業性並適應用戶偏好。內容包括處理客戶互動的具體角色、職責和工作流程狀態。
 
 - **AIaas.md** (https://github.com/hsctim/Resume/blob/main/AIaas.md) – 我的個人作品Alaas的概述，詳細介紹它作為一個多租戶聊天機器人和問答管理系統的主要特點。該系統由我獨立開發，使用BERT和MLP進行高級句子和上下文理解。您可以至[chatbot1網站](https://chatbot1.azurewebsites.net)進行任意測試及評估。以下是網頁介面與 AI/NLP 服務元件的原始碼：
     - **AIaaSWeb** (https://github.com/hsctim/AIaaSWeb) – 這是 AIaas的網站介面的Git Repository，展示了其多租戶功能與使用者友善的設計。該介面讓使用者能有效管理問答系統，並透過 Web UI、Line 和 Facebook Messenger 與聊天機器人互動，提供流暢的使用體驗。

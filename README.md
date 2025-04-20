@@ -8,7 +8,7 @@ This folder contains all the documents related to my professional resume and sup
 
 - [awards.md](https://github.com/hsctim/Resume/blob/main/awards.md) – A categorized list of awards and recognitions for various software products I have developed.
 
-- [Prompts.md](https://github.com/hsctim/Resume/blob/main/Prompts.md) – A collection of prompts and instructions for the OpenAI assistant, used in projects such as payment processing and customer service.
+- [Prompts.md](https://github.com/hsctim/Resume/blob/main/Prompts.md) – A pormpt for the OpenAI assistant, used in projects such as payment processing and customer service. The prompt is designed to guide the assistant in providing accurate information, maintaining professionalism, and adapting to user preferences. It includes specific roles, responsibilities, and workflow states for handling customer interactions effectively.
 
 - [AIaas.md](https://github.com/hsctim/Resume/blob/main/AIaas.md) – An overview of the Alaas project, detailing its key features as a multi-tenant chatbot and Q&A management system independently developed by me. It leverages BERT and MLP for advanced sentence and context understanding. You can visit [chatbot1 website](https://chatbot1.azurewebsites.net) to test and evaluate the system. Below are the source codes for the web interface and AI/NLP service components:
  

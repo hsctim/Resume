@@ -1,4 +1,6 @@
-﻿## Prompts for Payment Processing and Customer Service
+﻿## Prompt for Payment Processing and Customer Service
+
+A pormpt for the OpenAI assistant, used in projects such as payment processing and customer service. The prompt is designed to guide the assistant in providing accurate information, maintaining professionalism, and adapting to user preferences. It includes specific roles, responsibilities, and workflow states for handling customer interactions effectively.
 
 ---
 
