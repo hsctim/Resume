@@ -246,6 +246,6 @@
 - **AIaas.md** (https://github.com/hsctim/Resume/blob/main/AIaas.md) – 我的個人作品Alaas的概述，詳細介紹它作為一個多租戶聊天機器人和問答管理系統的主要特點。該系統由我獨立開發，使用BERT和MLP進行高級句子和上下文理解。您可以至[chatbot1網站](https://chatbot1.azurewebsites.net)進行任意測試及評估。以下是網頁介面與 AI/NLP 服務元件的原始碼：
     - **AIaaSWeb** (https://github.com/hsctim/AIaaSWeb) – 這是 AIaas的網站介面的Git Repository，展示了其多租戶功能與使用者友善的設計。該介面讓使用者能有效管理問答系統，並透過 Web UI、Line 和 Facebook Messenger 與聊天機器人互動，提供流暢的使用體驗。
     
-    - **ChatbotBert** (https://github.com/hsctim/ChatbotBert) - 這是 ChatbotBert 專案的Git Repository，該專案由我獨立開發，作為 Alaas 平台的 AI/NLP 後端。它展示了使用 BERT 模型和 MLP 的高級句子和上下文理解能力。原始碼開放供社群使用與學習，提供了我在 AI、NLP 和 MLP 技術方面專業知識的實際範例。
+    - **ChatbotBert** (https://github.com/hsctim/ChatbotBert) - ChatbotBert 專案的儲存庫，展示我獨立開發的 Alaas 平台 AI/NLP 後端。該專案利用 BERT 模型和 MLP 技術進行高級句子及上下文理解，展現了我在 AI、NLP 和 MLP 技術方面的能力，並展示了我開發 AI 解決方案的能力。
 
 

@@ -223,7 +223,7 @@ All supplementary documents are available on GitHub for your reference. These in
 
     - **AIaaSWeb** (https://github.com/hsctim/AIaaSWeb) – A repository for the Alaas project web interface, showcasing its multi-tenant capabilities and user-friendly design. This interface enables users to efficiently manage their Q&A systems and interact with the chatbot via WebUI, Line, and Facebook Messenger, providing a seamless experience.
     
-    - **ChatbotBert** (https://github.com/hsctim/ChatbotBert) – A repository demonstrating the ChatbotBert project, independently developed as the AI/NLP backend for the Alaas platform. It features advanced sentence and context understanding powered by the BERT model and MLP. The source code is open for community use, offering a practical example of expertise in AI, NLP, and MLP technologies.
+    - **ChatbotBert** (https://github.com/hsctim/ChatbotBert) – A repository for the Alaas project web interface, showcasing its multi-tenant capabilities and user-friendly design. This interface enables users to efficiently manage their Q&A systems and interact with the chatbot via WebUI, Line, and Facebook Messenger, providing a seamless experience.
 
 - **Prompts.md** (https://github.com/hsctim/Resume/blob/main/Prompts.md) – A collection of prompts and instructions for OpenAI Assistants, explaining my use of these tools for tasks such as payment processing workflows and customer service.
 
