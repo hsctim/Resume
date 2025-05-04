@@ -92,31 +92,6 @@
   1. Coordinated systems for credit investigation, credit approval, collateral management, delinquency, review, foreign exchange, and board audits for Taiwan Bank.
   2. Collaborated with the Financial Supervisory Commission and Central Bank to proactively meet IFRS, personal data protection, and CI/CD quality standards.
 
-### SOHO  
-**Company:** Freelancer  
-**Location:** Xinyi District, Taipei  
-**Duration:** 2007 – 2010 (3 years)  
-**Responsibilities:**
-1. Collaborated with various software companies, providing technical support and co-developing security management and power management software.
-2. Researched software engineering and process improvement methods to enhance software quality and project management efficiency; explored frameworks including CMMI, Extreme Programming, Agile/Scrum, and DevOps.
-
-### Senior Engineer  
-**Company:** Sunvison Technology Co., Ltd. (≈100 employees)  
-**Location:** Xinyi District, Taipei  
-**Duration:** 2003 – 2007 (4 years)  
-**Responsibilities:**
-1. Developed fingerprint recognition systems and integrated them into the Windows login system via GINA and Credential Provider.
-2. Developed vein recognition systems and integrated them with Windows login systems and industrial security equipment.
-3. Developed a cloud-based digital signage (Digital Signage) system.
-
-### Founder  
-**Company:** Yihong Technology Co., Ltd. (5 employees)  
-**Location:** Xinyi District, Taipei  
-**Duration:** 1998 – 2003 (5 years)  
-**Responsibilities:**
-1. Invented Windows kernel technology during college by creating a Call Gate in isolated memory to execute privileged instructions. This led to the development of an award-winning power management software adopted by a major US laptop manufacturer and sold through international software and online distributors.
-2. Maintained product leadership and garnered extensive international media coverage; the technology was phased out with the advent of Windows XP, leading to the business's closure.
-
 
 ---
 
@@ -186,25 +161,31 @@
 
 ## Personal Statement
 
-- In college, I discovered Windows kernel technology (access to isolated memory and execution of privileged instructions), which led me to design a power management software startup that received awards.
-- After military service, I led major financial projects (credit investigation, credit approval, collateral management, delinquency, review, foreign exchange, board audits) and implemented CI/CD, defect tracking, and reporting systems to significantly enhance efficiency.
-- I have participated in domestic and international telecom equipment development and project management, successfully overcoming engineering disputes and passing rigorous certification tests.
-- I am skilled in SaaS and AI technologies, having developed highly responsive & reliable self-service walls for telecom companies and fault-tolerant medical systems.
-- Previously managed intelligent customer service for three major financial institutions, gaining extensive practical experience in AI/intelligent customer service—from machine learning and natural language processing to semantic understanding. I am currently focusing on R&D for LLM applications and architecture design, researching technologies such as BERT, GPT, RAG, and LLM.
+During my university years, I discovered two core technologies of operating system: 1. Arbitrarily modifying protected memory. 2. Arbitrarily executing privileged instructions. These technologies were applied to design power management software, which I successfully marketed globally. This achievement led me to establish my own software company, where the software I developed consistently demonstrated exceptional quality, earning numerous awards and recognition from professional websites and magazines.
 
-### Strengths:
-1. LLM/NLP: Proficient in LLM, RAG, Prompt Engineering, Fine-tuning, LangChain, OpenAI Service, and Llama.
-2. Architectural Planning: Experience in data processing architecture, cloud architecture, AI application architecture, and cloud service architecture design.
-3. AI & Python: Capable of developing mature AI-as-a-Service/SaaS systems, optimizing for cloud tenants, model, and computational costs using techniques such as Model Pruning, Early Stopping, LRU, SELU, and BatchNormalization.
-4. C, C++, C++/CLI: Experience in Windows device driver and core software development.
-5. C#, .NET Core: Proficient in C#, ASP.NET Core, Blazor, JavaScript, jQuery, AJAX, Bootstrap, and Metronic.
-6. Large Multi-Tenant SaaS: Skilled in both front-end and back-end development.
-7. Database Design: Expert in Oracle, SQL Server, and DB schema design for high performance and consistency with redundancy.
-8. Data Governance: Experienced in SQL DWH, Data Lake, Data Mart, ETL, and ELT, with a strong background in data governance and data warehousing.
-9. Development Tools: Proficient with automation tools such as Microsoft Team Foundation, JIRA, and Git.
-10. Telecom Networking: Familiar with TCP/IP, WebSocket, Webhook, Signal-R, SIP, SDP, RTSP protocols.
-11. Data Center Management & Planning: Experienced in planning and maintaining state-of-the-art data centers.
-12. DevOps/MLOps: Capable of establishing high-quality DevOps/MLOps workflows and management systems to prevent issues, simplify operations, and dramatically enhance efficiency.
+After completing my military service, I began managing large-scale financial projects, such as BOT(Bank of Taiwan)'s credit investigation, credit approval, collateral management, overdue collection, review, foreign exchange, and board self-audit system integration. I implemented automated CI/CD processes, defect tracking, and automated defect reporting mechanisms, significantly reducing project development chaos and greatly improving efficiency. I am passionate about software engineering theories and proficient in leveraging project management tools and methodologies to achieve optimal quality at minimal cost.
+
+In the telecommunications field, I participated in the development of related equipment and managed large-scale domestic and international telecommunications projects. With my professional expertise, I quickly resolved major engineering issues and personally authored professional inspection reports. I successfully handled challenging engineering disputes, avoiding significant penalties and even securing additional compensation. During international telecommunications projects, under the guidance of foreign telecom operators, I gained valuable knowledge and improved the development of telecom equipment. I personally oversaw product certification testing, achieving full compliance (All Pass) and obtaining international telecom certifications. During this period, I helped the company achieve the following milestones: 1. Achievement of international telecom projects. 2. Establishment of a joint venture telecom company with major enterprises. 3. Securing international certifications for in-house products and successfully entering the public procurement market.
+
+Software development has always been my strength. I developed a self-service kiosk for latest retail stores of FarEasTone Telecom, utilizing asynchronous parallel computing technology to handle tasks such as voice, visuals, animations, and transactions simultaneously. This device is renowned for its fast response, excellent user experience, and low failure rate, making it one of the most advanced self-service devices on the market. Additionally, in medical system development, I adopted high fault-tolerance designs to ensure stability and a superior user experience, earning widespread acclaim.
+
+In the AI domain, I have managed several large-scale AI projects, such as intelligent customer service systems for Taipei Fubon Bank, CTBC Bank, and Cathay United Bank. I also independently developed an AIaaS system using Bert and MLP technologies, with Web (frontend and backend) and NLP (Bert) code made available on GitHub. Currently, I primarily use GPT, RAG, and LangChain technologies to develop AI applications, combining full-stack development skills and cloud service planning capabilities to rapidly create comprehensive real-time AI solutions, such as real-time meeting transcription and summarization, as well as real-time translation for enterprise internal services.
+
+In data management, I am proficient in Teradata, Synapse, Data Grid, Data Lake, and Data Warehouse, excelling in the design and maintenance of cold and hot databases and data warehouses. I can build real-time, high-performance large-scale data processing systems. I am also familiar with ETL/ELT processes and various data transformation technologies, such as Databricks, Kafka, Event Hub, and Airflow, enabling me to design efficient data transmission and reception systems.
+
+In architecture design, I have managed public engineering contracts and overseas telecom projects, focusing on large-scale telecom architecture design and system integration planning. Currently, I am primarily responsible for cloud architecture design, data management architecture, and cloud service planning. I am well-versed in cloud platforms such as AWS and Azure, capable of designing high-performance, highly available, secure, and cost-effective architectures.
+
+My development expertise includes:
+1.	Proficiency in PyTorch, TensorFlow, MLP, and Transformer, capable of developing mature AIaaS or SaaS systems, and optimizing costs using techniques such as Model Pruning, Early Stopping, and Normalization.
+2.	Expertise in GPT, LangChain, and RAG technologies, capable of developing comprehensive AI cloud application systems.
+3.	Proficiency in C, C++, and C++/CLI, with experience in developing Windows Device Drivers and core programs.
+4.	Expertise in large-scale Multi-Tenant Web application development, excelling in frontend, backend, or full-stack development, and building highly available systems with distributed architectures, such as customer management platforms and recommendation systems.
+5.	Proficiency in ORACLE, SQL SERVER, Teradata, and DB SCHEMA design, capable of designing high-performance and consistent database systems.
+6.	Expertise in data governance, familiar with Teradata, Synapse, Data Grid, Data Lake, and Data Warehouse, and skilled in Databricks, Kafka, Event Hub, and Airflow technologies.
+7.	Proficiency in Microsoft Team Foundation, JIRA, and Git, specializing in automated software development processes.
+8.	Expertise in telecommunications network knowledge, including TCP/IP, WebSocket, Webhook, SIP, SDP, RTSP, and other communication protocols.
+
+What sets me apart is my deep research in software engineering and my ability to establish dedicated DevOps processes and task management mechanisms. I excel at improving processes to prevent issues, reduce chaos, and simplify workloads or enhance automation, enabling teams to efficiently deliver high-quality work. I understand that cost is critical to project success and profitability. With my professional expertise, I can significantly reduce costs in large-scale public or international projects, generating substantial profits.
 
 ---
 
