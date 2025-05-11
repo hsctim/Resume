@@ -115,23 +115,18 @@
 
 ---
 
-## Strengths
+## Expertise
 
 ### Project Management
 1. Managed multiple large-scale telecom projects domestically and internationally (Taiwan Power, Rakuten Japan).
 2. Managed AI intelligent customer service systems for major private banks (China Trust, Cathay United, Taipei Fubon).
 3. Oversaw core system management for the largest state-owned bank.
-- Demonstrates exceptional research, engineering, and problem-solving capabilities.
-- Proficient in automation tools (e.g., DevOps, JIRA), significantly enhancing quality and efficiency.
+4. Possess excellent R&D and engineering problem-solving skills, capable of quickly addressing issues and providing optimal solutions.
+5. Proficient in automated management tools (e.g., DevOps, MLOps, Git, CI/CD, Auto-Test, Azure DevOps, GitHub Actions, Release Management, JIRA, TFS, etc.), effectively enhancing project development efficiency and quality.
 
----
-
-## Technical Skills
-
-- Products span the telecom, finance, healthcare, cloud, and AI sectors, and have received multiple awards.
-
-1. Web Application Development:
-   - **Frameworks:** Abp.io (Microservice and Monolithic), AspNetZero, Dapr, Aspire, Blazor
+### Technical Skills
+1. Application Development:
+   - **Frameworks:** Abp.io (Microservice and Monolithic), AspNetZero, Dapr, Aspire, Blazor, Entity Framework, .NET Core, .NET Framework
    - **SaaS Features:** Tenant and Edition management, Subscription, Billing, Payment, Multi-tenancy, Multi-Edition, Multi-Language
    - **Authentication:** Identity Framework, User and Role management, Multi-Factor Authentication, JWT, OAuth2, OpenId Connect
    - **Security:** Password complexity, CSRF protection, AntiXSS, AntiForgery, CORS, data protection/encryption/masking, Anti-DDoS
@@ -153,9 +148,7 @@
    - **Database:** SQL Server, MySQL, Oracle, Teradata, Redis
    - **Data Warehouse:** SQL DWH, Data Lake, Data Mart, ETL, ELT
    - **Tools:** DataBricks, Azure Synapse, Azure Data Factory
-   - **Experiences:** Data Grid, Delta Lake, AirFlow, Azure Purview
-
-#jQuery, #Python, #ASP.NET, #AJAX, #C++, #MS SQL, #MySQL, #Oracle, #C#, #C
+   - **Others:** Delta Lake, AirFlow, Azure Purview, Data Grid, Kafka, Event Hub
 
 ---
 

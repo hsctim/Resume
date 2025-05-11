@@ -124,47 +124,39 @@
 ## 專長
 
 ### 專案管理
-1. 曾同時負責國內外大型電信工程 (台電、日本樂天)
-2. 曾同時負責民間銀行 AI 智能客服系統 (中國信託、國泰世華、台北富邦)
-3. 曾負責國內最大官股銀行核心系統管理
+1. 同時負責國內外大型電信工程（台電、日本樂天）。
+2. 同時負責民間銀行 AI 智能客服系統（中國信託、國泰世華、台北富邦）。
+3. 負責國內最大官股銀行核心系統管理。
+4. 擁有卓越的研發與工程解決能力，能迅速處理問題並提供最佳方案。
+5. 精通自動化管理工具（如 DevOps、MLOps、Git、CI/CD、Auto-Test、Azure DevOps、GitHub Actions、Release Management、JIRA、TFS 等），能有效提升專案開發效率與品質。
 
-- 具備卓越研發與工程解決能力，能迅速處理問題並提供最佳方案
-- 精通自動化管理工具（如 DevOps、JIRA 等），顯著提升品質與效率
+### 技術能力
 
-**#工程管理 #專案管理 #專案管理軟體操作 #軟體專案管理 #軟體工程系統開發 #系統架構規劃 #系統架構規劃與維護 #系統維護操作 #軟體品質與保證 #工程施工監督管理**
-
----
-
-## 技術能力
-
-- 產品涵蓋電信、金融、醫療、雲端及 AI 領域，屢獲獎項  
-
-1. **Web Application Development：**
-   - **Frameworks:** Abp.io (Microservice and Monolithic), AspNetZero, Dapr, Aspire, Blazor
-   - **SaaS Features:** Tenant and Edition management, Subscription management, Billing, Payment, Multi-tenancy, Multi-Edition, Multi-Language
-   - **Authentication:** Identity Framework, User and role management, Multi Factor Authentication, JWT, OAuth2, OpenId Connect
-   - **Security:** Password complexity, CSRF protection, AntiXSS, AntiForgery, CORS, Data protection, Data encryption, Data masking, Anti-Ddos
+1. 應用程式開發:
+   - **Frameworks:** Abp.io (Microservice and Monolithic), AspNetZero, Dapr, Aspire, Blazor, Entity Framework, .NET Core, .NET Framework
+   - **SaaS Features:** Tenant and Edition management, Subscription, Billing, Payment, Multi-tenancy, Multi-Edition, Multi-Language
+   - **Authentication:** Identity Framework, User and Role management, Multi-Factor Authentication, JWT, OAuth2, OpenId Connect
+   - **Security:** Password complexity, CSRF protection, AntiXSS, AntiForgery, CORS, data protection/encryption/masking, Anti-DDoS
    - **Frontend:** Metronic, Bootstrap, Responsive design, jQuery, AJAX
    - **Background Jobs:** Hangfire, RabbitMQ
    - **Distributed System:** Distributed Cache, Distributed Lock, Distributed Event Bus
    - **Cloud:** Azure, AWS, GCP, Docker, Azure Functions, Azure Logic Apps, Azure API Management, Azure App Service, Azure Blob Storage, Azure SQL Database, Azure Cosmos DB, Azure Data Lake Storage, AWS S3, AWS Lambda, AWS RDS, Azure Telemetry, AWS CloudWatch, Azure Monitor, Azure Application Insights
 
-2. **LLM/NLP/ML:**
-   - **LLM:** ChatGPT、RAG、Prompt Engineering、Fine-tuning、Embedding、Vector DB、LangChain、OpenAI、Azure OpenAI Service、Llama
+2. LLM/NLP/ML:
+   - **LLM:** ChatGPT, RAG, Prompt Engineering, Fine-tuning, Embedding, Vector DB, LangChain, OpenAI, Azure OpenAI Service, Llama
    - **LLM Application Architecture:** Question Classifier + RAG + LLM, Single Agent with Tool-Calling, Chain-of-Thought, Graph Chain-of-Thought
    - **NLP:** Bert, GPT, Word2Vec, NER, Sentiment Analysis
-   - **Optimization Techniques:** Model Pruning、Early Stopping
-   - **MLP:** MLP、CNN、RNN、LSTM、GRU、Transformer、BERT、GPT
-   - **Activation Functions:** ELU、GELU、Swish、Mish、ReLU、Softplus、Softsign、Tanh、Sigmoid、Softmax
-   - **Normalization:** BatchNormalization、LayerNormalization
+   - **Optimization Techniques:** Model Pruning, Early Stopping
+   - **MLP:** MLP, CNN, RNN, LSTM, GRU, Transformer, BERT, GPT
+   - **Activation Functions:** ELU, GELU, Swish, Mish, ReLU, Softplus, Softsign, Tanh, Sigmoid, Softmax
+   - **Normalization:** BatchNormalization, LayerNormalization
 
-3. **數據治理**
-   - **Database:** SQL Server、MySQL、Oracle、Teradata、Redis
-   - **Data Warehouse:** SQL DWH、Data Lake、Data Mart、ETL、ELT
-   - **Tools:** DataBricks、Azure Synapse、Azure Data Factory
-   - **Experiences:** Data Grid、Delta Lake、AirFlow、Azure Purview
+3. Data Governance:
+   - **Database:** SQL Server, MySQL, Oracle, Teradata, Redis
+   - **Data Warehouse:** SQL DWH, Data Lake, Data Mart, ETL, ELT
+   - **Tools:** DataBricks, Azure Synapse, Azure Data Factory
+   - **Others:** Delta Lake, AirFlow, Azure Purview, Data Grid, Kafka, Event Hub
 
-**#jQuery #Python #ASP.NET #AJAX #C++ #MS SQL #MySQL #Oracle #C# #C**
 
 ---
 
