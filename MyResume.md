@@ -1,12 +1,5 @@
 # 朱益弘
 
-| 機構/地點         | 詳情                                       |
-|------------------|------------------------------------------|
-| (還在職)   | 資深資料科學家 (架構師)                                        |
-| 大同大學           | 資訊工程 大學畢業                           |
-| 台北市信義區       | 25年(含)以上工作經歷<br>希望職稱: 依規定      |
-
----
 
 ## 個人資料
 | 項目         | 詳細資料                        |
@@ -35,11 +28,24 @@
 
 ## 工作經驗 (總年資 25年(含)以上)
 
+### 資深工程師
+- **公司：** 貸款公司 
+- **職位：** 資深工程師
+- **地點：** 台北市 
+- **期間：** 2025/6 ~ 仍在職
+- **職責：**
+  1. 獨立開發多品牌（Multi-Tenant）AI 智能客服系統，一人於三個月內完成全端開發
+     - 採用 AI-assisted development，由我引導 AI 產出全部程式碼，不人工撰寫任一行
+     - 使用 Semantic Kernel 實現客戶情緒偵測、業務申請、帳單查詢等 Agent 功能
+     - 基於我過去曾主導三大民營銀行智能客服專案的經驗，及多年前的 AIaaS 智能客服系統開發經驗，因此能在一人加上 AI Agent 的模式，於三個月內獨自完成採用 AI Agent 架構的多品牌智能客服系統。
+  2. AI 相關應用開發與技術研究
+ 
+
 ### 資深資料科學家 (架構師)
-- **公司：**  
+- **公司：** 精藤股份有限公司 (全家與日本全家、CTC合資之專業系統整合公司) 
 - **職位：** 資深資料科學家 (架構師)  
-- **地點：**  
-- **期間：** 2022/8 -  
+- **地點：** 台北市 
+- **期間：** 2022/8 - 2025/5 
 - **職責：**
   1. AWS 及 Azure 的雲端架構規劃與管理
   2. Git, DevOps 及 MLOps 的建立與管理
@@ -144,6 +150,7 @@
 
 2. LLM/NLP/ML:
    - **LLM:** ChatGPT, RAG, Prompt Engineering, Fine-tuning, Embedding, Vector DB, LangChain, OpenAI, Azure OpenAI Service, Llama
+   - **Agent Framework:** Microsoft Agent Framework, Semantic Kernel, AutoGen, ABP AI Agent, A2A, MCP, Agent Safety
    - **LLM Application Architecture:** Question Classifier + RAG + LLM, Single Agent with Tool-Calling, Chain-of-Thought, Graph Chain-of-Thought
    - **NLP:** Bert, GPT, Word2Vec, NER, Sentiment Analysis
    - **Optimization Techniques:** Model Pruning, Early Stopping
@@ -151,7 +158,7 @@
    - **Activation Functions:** ELU, GELU, Swish, Mish, ReLU, Softplus, Softsign, Tanh, Sigmoid, Softmax
    - **Normalization:** BatchNormalization, LayerNormalization
 
-3. Data Governance:
+3. 數據治理:
    - **Database:** SQL Server, MySQL, Oracle, Teradata, Redis
    - **Data Warehouse:** SQL DWH, Data Lake, Data Mart, ETL, ELT
    - **Tools:** DataBricks, Azure Synapse, Azure Data Factory
@@ -170,7 +177,15 @@
 
 在軟體研發方面，一直都是我的強項，我也曾為遠傳電信最新門市開發了自助服務牆，採用非同步並行運算技術，可同時處理語音、畫面、動畫及交易等各項工作。該設備以反應速度快、使用體驗佳及故障率低著稱，是市面上最完美的自助服務設備之一。此外，我在醫療系統開發中採用高容錯率設計，確保穩定性與良好的使用體驗，廣受好評。
 
-在 AI 領域，我曾擔任多個大型 AI 專案的經理，例如台北富邦、中國信託及國泰世華銀行的智能客服系統專案。我也曾自行開發了 AIaaS 系統，採用 Bert 及 MLP 技術，並將 Web（前後端） 及 NLP（Bert技術）程式碼開放至 GitHub。目前，我主要使用 GPT、RAG 及 LangChain 等技術開發 AI 應用，結合全端開發技能及雲端服務規劃能力，快速打造完整的即時 AI方案，例如即時會議記錄與摘要、即時翻譯等企業內部服務。
+在 AI 領域，我擁有超過 15 年的深厚經驗。早在 2010 年代初期，即同時擔任國泰世華、中國信託、台北富邦三大民營銀行智能客服系統的專案經理，統籌 AI 客服知識庫建置、流程整合、系統穩定性與上線導入，對金融場景中的 AI 客服有完整的實務歷練。
+
+在全家集團旗下軟體開發公司（精藤股份有限公司），我擔任資深資料科學家（架構師），負責雲端架構（AWS / Azure）、AI 框架、數據框架的規劃，以及 MLOps / DevOps 流程建置，並主導 LLM / RAG / ChatGPT 等 AI 應用架構設計與研發。
+
+十年前，我獨立開發了 AIaaS Web — 一個多租戶智能客服與問答管理系統，整合前端、後端及 BERT / MLP NLP 服務，展現我在多租戶 SaaS、AI/NLP 及全端系統開發上的完整能力。正因為這項經驗，我如今能在三個月內，以一人之力為現職公司完成多品牌智能客服系統的開發。
+
+目前，我採用 AI-assisted development 模式，由我指導 AI 產出全部程式碼，不人工撰寫任一行，以 Semantic Kernel 實現自動化業務申請與帳單查詢等 Agent 功能。此 AI Agent模式也廣泛應用於我目前所有的專案上。
+
+在開源方面，我持續投入 Microsoft Agent Framework 及 ABP AI Agent 生態系，獨立開發 OpenAgent 與 OpenTranslator 等專案，並深入探索多 Agent 協作（A2A）、MCP、Agent Safety 等前瞻技術，展現 Agentic AI 架構的完整實作能力。
 
 在數據管理方面，我熟悉 Teradata、Synapse、Data Grid、Data Lake 及 Data Warehouse，擅長冷熱資料庫及資料倉儲的設計與維運，能構建即時且高效的大量資料處理系統。我也熟悉 ETL/ELT 流程及各種資料轉換技術，如 Databricks、Kafka、Event Hub 及 Airflow，能設計高效能的資料傳輸與接收系統。
 
@@ -208,5 +223,13 @@
     - **AIaaSWeb** (https://github.com/hsctim/AIaaSWeb) – 這是 AIaas的網站介面的Git Repository，展示了其多租戶功能與使用者友善的設計。該介面讓使用者能有效管理問答系統，並透過 Web UI、Line 和 Facebook Messenger 與聊天機器人互動，提供流暢的使用體驗。
     
     - **ChatbotBert** (https://github.com/hsctim/ChatbotBert) - ChatbotBert 專案的儲存庫，展示我獨立開發的 Alaas 平台 AI/NLP 後端。該專案利用 BERT 模型和 MLP 技術進行高級句子及上下文理解，展現了我在 AI、NLP 和 MLP 技術方面的能力，並展示了我開發 AI 解決方案的能力。
+
+- **OpenTranslator** (https://github.com/hsctim/OpenTranslator) – 採用 Microsoft Agent Framework 開發的開源即時翻譯專案，結合 LLM 與 Agent 架構，實現高品質即時翻譯服務。
+  - `.github` 目錄包含完整的 AI 開發指令集，涵蓋 Plan、Coding、Code Review、Compile、Test 等一系列自動化流程，指導 AI 進行全自動軟體開發。
+  - `docs` 目錄完整紀錄 AI 自動化開發過程中的所有決策與處理歷程，實現 AI 自行開發時的記憶與持續性。
+  
+- **OpenAgent** (https://github.com/hsctim/OpenAgent) – 採用 Microsoft Agent Framework 開發的開源 AI Agent 專案，展示多 Agent 協作、工具調用（Tool Calling）及 RAG 整合等先進 AI 應用架構能力。
+
+
 
 

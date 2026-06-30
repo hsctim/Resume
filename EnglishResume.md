@@ -28,11 +28,23 @@
 
 ## Work Experience (Over 25 Years)
 
+### Senior Engineer
+- **Company:** Loan Company 
+- **Position:** Senior Engineer
+- **Location:** Taipei City 
+- **Duration:** Jun 2025 – Present
+- **Responsibilities:**
+  1. Independently developed a multi-brand (Multi-Tenant) AI intelligent customer service system, completing full-stack development single-handedly within three months.
+     - Adopted AI-assisted development: guided AI to produce 100% of the codebase without manually writing a single line.
+     - Leveraged Semantic Kernel to implement Agent capabilities including customer sentiment detection, automated business applications, and bill inquiries.
+     - Built upon prior experience leading AI customer service projects for Taiwan's top three private banks, combined with years of AIaaS system development expertise — enabling solo delivery of a complete AI Agent-based multi-brand customer service system in just three months.
+  2. AI application development and technology research.
+
 ### Senior Data Scientist (Architect)
-- **Company:** 
+- **Company:** Jingteng Co., Ltd. (A joint venture between FamilyMart, FamilyMart Japan, and CTC — specialized systems integration) 
 - **Position:** Senior Data Scientist (Architect)  
-- **Location:** 
-- **Duration:** Aug 2022 – Present  
+- **Location:** Taipei City 
+- **Duration:** Aug 2022 – May 2025 
 - **Responsibilities:**
   1. Plan and manage cloud architectures on AWS and Azure.
   2. Establish and manage Git, DevOps, and MLOps processes.
@@ -137,6 +149,7 @@
 
 2. LLM/NLP/ML:
    - **LLM:** ChatGPT, RAG, Prompt Engineering, Fine-tuning, Embedding, Vector DB, LangChain, OpenAI, Azure OpenAI Service, Llama
+   - **Agent Framework:** Microsoft Agent Framework, Semantic Kernel, AutoGen, ABP AI Agent, A2A, MCP, Agent Safety
    - **LLM Application Architecture:** Question Classifier + RAG + LLM, Single Agent with Tool-Calling, Chain-of-Thought, Graph Chain-of-Thought
    - **NLP:** Bert, GPT, Word2Vec, NER, Sentiment Analysis
    - **Optimization Techniques:** Model Pruning, Early Stopping
@@ -162,7 +175,15 @@ In the telecommunications field, I participated in the development of related eq
 
 Software development has always been my strength. I developed a self-service kiosk for latest retail stores of FarEasTone Telecom, utilizing asynchronous parallel computing technology to handle tasks such as voice, visuals, animations, and transactions simultaneously. This device is renowned for its fast response, excellent user experience, and low failure rate, making it one of the most advanced self-service devices on the market. Additionally, in medical system development, I adopted high fault-tolerance designs to ensure stability and a superior user experience, earning widespread acclaim.
 
-In the AI domain, I have managed several large-scale AI projects, such as intelligent customer service systems for Taipei Fubon Bank, CTBC Bank, and Cathay United Bank. I also independently developed an AIaaS system using Bert and MLP technologies, with Web (frontend and backend) and NLP (Bert) code made available on GitHub. Currently, I primarily use GPT, RAG, and LangChain technologies to develop AI applications, combining full-stack development skills and cloud service planning capabilities to rapidly create comprehensive real-time AI solutions, such as real-time meeting transcription and summarization, as well as real-time translation for enterprise internal services.
+In the AI domain, I bring over 15 years of deep, hands-on experience. As early as the 2010s, I simultaneously served as Project Manager for AI intelligent customer service systems at Taiwan's top three private banks — Cathay United Bank, CTBC Bank, and Taipei Fubon Bank — overseeing knowledge base construction, workflow integration, system stability, and production deployment, gaining comprehensive practical expertise in AI customer service within financial scenarios.
+
+At the FamilyMart Group's software subsidiary (Jingteng Co., Ltd.), I served as Senior Data Scientist (Architect), responsible for cloud architecture planning (AWS / Azure), AI frameworks, data frameworks, MLOps / DevOps pipeline establishment, and leading the architecture design and R&D of LLM / RAG / ChatGPT-based AI applications.
+
+A decade ago, I independently built AIaaS Web — a multi-tenant intelligent customer service and Q&A management system integrating frontend, backend, and BERT / MLP NLP services — demonstrating my full-stack capabilities across multi-tenant SaaS, AI/NLP, and complete system development. It is precisely this experience that enables me today to single-handedly deliver a multi-brand intelligent customer service system in just three months.
+
+Currently, I practice AI-assisted development, guiding AI agents to produce the entire codebase without manually writing any code, leveraging Semantic Kernel to implement Agent features such as automated business applications and bill inquiries. This AI Agent-driven development model is now applied across all my projects.
+
+In open source, I actively contribute to the Microsoft Agent Framework and ABP AI Agent ecosystems, independently developing projects such as OpenAgent and OpenTranslator, while exploring cutting-edge technologies including Multi-Agent Collaboration (A2A), MCP (Model Context Protocol), and Agent Safety — demonstrating end-to-end implementation capabilities in Agentic AI architecture.
 
 In data management, I am proficient in Teradata, Synapse, Data Grid, Data Lake, and Data Warehouse, excelling in the design and maintenance of cold and hot databases and data warehouses. I can build real-time, high-performance large-scale data processing systems. I am also familiar with ETL/ELT processes and various data transformation technologies, such as Databricks, Kafka, Event Hub, and Airflow, enabling me to design efficient data transmission and reception systems.
 
@@ -197,7 +218,15 @@ All supplementary documents are available on GitHub for your reference. These in
 
     - **AIaaSWeb** (https://github.com/hsctim/AIaaSWeb) – A repository for the Alaas project web interface, showcasing its multi-tenant capabilities and user-friendly design. This interface enables users to efficiently manage their Q&A systems and interact with the chatbot via WebUI, Line, and Facebook Messenger, providing a seamless experience.
     
-    - **ChatbotBert** (https://github.com/hsctim/ChatbotBert) – A repository for the Alaas project web interface, showcasing its multi-tenant capabilities and user-friendly design. This interface enables users to efficiently manage their Q&A systems and interact with the chatbot via WebUI, Line, and Facebook Messenger, providing a seamless experience.
+    - **ChatbotBert** (https://github.com/hsctim/ChatbotBert) – A repository for the AI/NLP backend of the Alaas platform I independently developed. This project leverages BERT models and MLP techniques for advanced sentence and context understanding, showcasing my capabilities in AI, NLP, and MLP technologies.
+
+- **OpenTranslator** (https://github.com/hsctim/OpenTranslator) – An open-source real-time translation project built with Microsoft Agent Framework, combining LLM and Agent architecture to deliver high-quality, real-time translation services.
+  - `.github` directory contains a comprehensive set of AI development instructions covering the full automation pipeline — Plan, Coding, Code Review, Compile, and Test — guiding AI through fully automated software development.
+  - `docs` directory preserves a complete record of all AI-driven development decisions and processing history, enabling AI to retain memory and continuity throughout autonomous development.
+
+- **OpenAgent** (https://github.com/hsctim/OpenAgent) – An open-source AI Agent project built with Microsoft Agent Framework, demonstrating advanced AI application architecture capabilities including Multi-Agent Collaboration, Tool Calling, and RAG integration.
+  - `.github` directory contains a comprehensive set of AI development instructions covering the full automation pipeline — Plan, Coding, Code Review, Compile, and Test — guiding AI through fully automated software development.
+  - `docs` directory preserves a complete record of all AI-driven development decisions and processing history, enabling AI to retain memory and continuity throughout autonomous development.
 
 - **Prompts.md** (https://github.com/hsctim/Resume/blob/main/Prompts.md) – A collection of prompts and instructions for OpenAI Assistants, explaining my use of these tools for tasks such as payment processing workflows and customer service.
 
